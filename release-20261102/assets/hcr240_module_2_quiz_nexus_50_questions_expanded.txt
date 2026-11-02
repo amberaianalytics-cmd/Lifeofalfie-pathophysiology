@@ -1,0 +1,861 @@
+DR. MODALI LEARNING LABS | A DAY IN THE LIFE OF ALFIE
+MODULE 2 QUIZ NEXUS — COMPLETE CONTENT BANK
+Immune, Hematologic, Coagulation and Arterial Disorders
+50 ORIGINAL PRACTICE QUESTIONS | 4 OPTIONS PER QUESTION
+
+ROSEBUD IMPORT INSTRUCTIONS:
+Treat each QUESTION START / QUESTION END block as a single immutable question record.
+Display one question at a time. Each answer locks upon first click.
+Use CORRECT ANSWER and the option explanations for immediate feedback and final downloadable study report.
+Do not expose correct answers or explanations until the student has submitted a selection.
+This is original practice content, not the institutional midterm exam.
+
+===== QUESTION 01 START =====
+ID: M2-Q01
+STEM: A teenager has recurrent bacterial infections and markedly low immunoglobulin levels. Which arm of adaptive immunity is most directly compromised?
+OPTION A: Humoral antibody-mediated defense
+OPTION B: Ventricular contraction
+OPTION C: Alveolar elastic recoil
+OPTION D: Platelet aggregation
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Humoral antibody-mediated defense
+CORE RATIONALE: B-cell antibody function supports humoral protection; the other choices are vascular or pulmonary processes.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Humoral antibody-mediated defense. B-cell antibody function supports humoral protection; the other choices are vascular or pulmonary processes. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. B-cell antibody function supports humoral protection; the other choices are vascular or pulmonary processes. The stem is asking about the specific relationship represented by Humoral antibody-mediated defense; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer in this clinical context. Ventricular contraction does not account for the particular findings or mechanism specified in the stem. The supported response is Humoral antibody-mediated defense. B-cell antibody function supports humoral protection; the other choices are vascular or pulmonary processes.
+EXPLANATION C: Not the best answer in this clinical context. Alveolar elastic recoil does not account for the particular findings or mechanism specified in the stem. The supported response is Humoral antibody-mediated defense. B-cell antibody function supports humoral protection; the other choices are vascular or pulmonary processes.
+EXPLANATION D: Not the best answer in this clinical context. Platelet aggregation does not account for the particular findings or mechanism specified in the stem. The supported response is Humoral antibody-mediated defense. B-cell antibody function supports humoral protection; the other choices are vascular or pulmonary processes.
+===== QUESTION 01 END =====
+
+===== QUESTION 02 START =====
+ID: M2-Q02
+STEM: A child has profound dysfunction of both T- and B-cell immunity and severe recurrent infections. Which disorder best fits?
+OPTION A: Isolated iron-deficiency anemia
+OPTION B: Severe combined immunodeficiency
+OPTION C: Essential hypertension
+OPTION D: Hemophilia A
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Severe combined immunodeficiency
+CORE RATIONALE: SCID compromises cellular and humoral immune function; it is not an isolated red-cell or coagulation problem.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Severe combined immunodeficiency. SCID compromises cellular and humoral immune function; it is not an isolated red-cell or coagulation problem. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Anemia means reduced red-cell mass or hemoglobin and can impair oxygen delivery. The case instead points to Severe combined immunodeficiency; compare the distinctive clinical clues and mechanism in the stem. SCID compromises cellular and humoral immune function; it is not an isolated red-cell or coagulation problem.
+EXPLANATION B: This is the best answer. SCID compromises cellular and humoral immune function; it is not an isolated red-cell or coagulation problem. The stem is asking about the specific relationship represented by Severe combined immunodeficiency; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer in this clinical context. Essential hypertension does not account for the particular findings or mechanism specified in the stem. The supported response is Severe combined immunodeficiency. SCID compromises cellular and humoral immune function; it is not an isolated red-cell or coagulation problem.
+EXPLANATION D: Not the best answer. Hemophilia is a coagulation-factor disorder associated with deep tissue or joint bleeding. The case instead points to Severe combined immunodeficiency; compare the distinctive clinical clues and mechanism in the stem. SCID compromises cellular and humoral immune function; it is not an isolated red-cell or coagulation problem.
+===== QUESTION 02 END =====
+
+===== QUESTION 03 START =====
+ID: M2-Q03
+STEM: A child with absent thymic development has low mature T cells and hypocalcemia. Which syndrome is likely?
+OPTION A: Hemophilia B
+OPTION B: DiGeorge syndrome
+OPTION C: Huntington disease
+OPTION D: Tay-Sachs disease
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: DiGeorge syndrome
+CORE RATIONALE: DiGeorge syndrome can involve thymic hypoplasia and parathyroid defects, unlike the alternatives.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support DiGeorge syndrome. DiGeorge syndrome can involve thymic hypoplasia and parathyroid defects, unlike the alternatives. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Hemophilia is a coagulation-factor disorder associated with deep tissue or joint bleeding. The case instead points to DiGeorge syndrome; compare the distinctive clinical clues and mechanism in the stem. DiGeorge syndrome can involve thymic hypoplasia and parathyroid defects, unlike the alternatives.
+EXPLANATION B: This is the best answer. DiGeorge syndrome can involve thymic hypoplasia and parathyroid defects, unlike the alternatives. The stem is asking about the specific relationship represented by DiGeorge syndrome; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer in this clinical context. Huntington disease does not account for the particular findings or mechanism specified in the stem. The supported response is DiGeorge syndrome. DiGeorge syndrome can involve thymic hypoplasia and parathyroid defects, unlike the alternatives.
+EXPLANATION D: Not the best answer in this clinical context. Tay-Sachs disease does not account for the particular findings or mechanism specified in the stem. The supported response is DiGeorge syndrome. DiGeorge syndrome can involve thymic hypoplasia and parathyroid defects, unlike the alternatives.
+===== QUESTION 03 END =====
+
+===== QUESTION 04 START =====
+ID: M2-Q04
+STEM: A patient has recurrent mucosal infections and very low IgA with other immunoglobulins relatively preserved. Which deficiency is implicated?
+OPTION A: G6PD deficiency
+OPTION B: Factor VIII deficiency
+OPTION C: CFTR deficiency
+OPTION D: Selective IgA deficiency
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Selective IgA deficiency
+CORE RATIONALE: IgA helps protect mucosal surfaces; isolated IgA deficiency is a humoral immune problem.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Selective IgA deficiency. IgA helps protect mucosal surfaces; isolated IgA deficiency is a humoral immune problem. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. G6PD deficiency does not account for the particular findings or mechanism specified in the stem. The supported response is Selective IgA deficiency. IgA helps protect mucosal surfaces; isolated IgA deficiency is a humoral immune problem.
+EXPLANATION B: Not the best answer in this clinical context. Factor VIII deficiency does not account for the particular findings or mechanism specified in the stem. The supported response is Selective IgA deficiency. IgA helps protect mucosal surfaces; isolated IgA deficiency is a humoral immune problem.
+EXPLANATION C: Not the best answer. CFTR is an epithelial ion channel implicated in cystic fibrosis. The case instead points to Selective IgA deficiency; compare the distinctive clinical clues and mechanism in the stem. IgA helps protect mucosal surfaces; isolated IgA deficiency is a humoral immune problem.
+EXPLANATION D: This is the best answer. IgA helps protect mucosal surfaces; isolated IgA deficiency is a humoral immune problem. The stem is asking about the specific relationship represented by Selective IgA deficiency; the other options refer to separate mechanisms or conditions.
+===== QUESTION 04 END =====
+
+===== QUESTION 05 START =====
+ID: M2-Q05
+STEM: HIV progressively impairs which immune-cell population most characteristically?
+OPTION A: Platelets
+OPTION B: Cardiac myocytes
+OPTION C: Mature erythrocytes
+OPTION D: CD4 helper T cells
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: CD4 helper T cells
+CORE RATIONALE: HIV attacks CD4 T cells, impairing coordination of immune responses.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support CD4 helper T cells. HIV attacks CD4 T cells, impairing coordination of immune responses. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Platelets does not account for the particular findings or mechanism specified in the stem. The supported response is CD4 helper T cells. HIV attacks CD4 T cells, impairing coordination of immune responses.
+EXPLANATION B: Not the best answer in this clinical context. Cardiac myocytes does not account for the particular findings or mechanism specified in the stem. The supported response is CD4 helper T cells. HIV attacks CD4 T cells, impairing coordination of immune responses.
+EXPLANATION C: Not the best answer in this clinical context. Mature erythrocytes does not account for the particular findings or mechanism specified in the stem. The supported response is CD4 helper T cells. HIV attacks CD4 T cells, impairing coordination of immune responses.
+EXPLANATION D: This is the best answer. HIV attacks CD4 T cells, impairing coordination of immune responses. The stem is asking about the specific relationship represented by CD4 helper T cells; the other options refer to separate mechanisms or conditions.
+===== QUESTION 05 END =====
+
+===== QUESTION 06 START =====
+ID: M2-Q06
+STEM: A patient develops hives and bronchospasm minutes after exposure to a trigger. Which hypersensitivity mechanism is most likely?
+OPTION A: Type II, cytotoxic antibody-mediated
+OPTION B: Type I, IgE-mediated
+OPTION C: Type III, immune complex-mediated
+OPTION D: Type IV, delayed T-cell-mediated
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Type I, IgE-mediated
+CORE RATIONALE: Immediate allergy classically uses IgE and mast cells; the other types involve different immune effectors and timing.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Type I, IgE-mediated. Immediate allergy classically uses IgE and mast cells; the other types involve different immune effectors and timing. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Type II hypersensitivity is antibody mediated against cellular or tissue targets. The case instead points to Type I, IgE-mediated; compare the distinctive clinical clues and mechanism in the stem. Immediate allergy classically uses IgE and mast cells; the other types involve different immune effectors and timing.
+EXPLANATION B: This is the best answer. Immediate allergy classically uses IgE and mast cells; the other types involve different immune effectors and timing. The stem is asking about the specific relationship represented by Type I, IgE-mediated; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer. Type II hypersensitivity is antibody mediated against cellular or tissue targets. The case instead points to Type I, IgE-mediated; compare the distinctive clinical clues and mechanism in the stem. Immediate allergy classically uses IgE and mast cells; the other types involve different immune effectors and timing.
+EXPLANATION D: Not the best answer. Type IV hypersensitivity is delayed and T-cell mediated. The case instead points to Type I, IgE-mediated; compare the distinctive clinical clues and mechanism in the stem. Immediate allergy classically uses IgE and mast cells; the other types involve different immune effectors and timing.
+===== QUESTION 06 END =====
+
+===== QUESTION 07 START =====
+ID: M2-Q07
+STEM: A blood-transfusion incompatibility causes antibodies to destroy donor erythrocytes. Which hypersensitivity type best fits?
+OPTION A: Type IV
+OPTION B: Type III
+OPTION C: Type I
+OPTION D: Type II
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Type II
+CORE RATIONALE: Type II reactions use antibodies directed at cell-surface antigens, including incompatible red blood cells.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Type II. Type II reactions use antibodies directed at cell-surface antigens, including incompatible red blood cells. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Type IV hypersensitivity is delayed and T-cell mediated. The case instead points to Type II; compare the distinctive clinical clues and mechanism in the stem. Type II reactions use antibodies directed at cell-surface antigens, including incompatible red blood cells.
+EXPLANATION B: Not the best answer. Type II hypersensitivity is antibody mediated against cellular or tissue targets. The case instead points to Type II; compare the distinctive clinical clues and mechanism in the stem. Type II reactions use antibodies directed at cell-surface antigens, including incompatible red blood cells.
+EXPLANATION C: Not the best answer. Type I hypersensitivity is typically rapid IgE-mediated mast-cell activation. The case instead points to Type II; compare the distinctive clinical clues and mechanism in the stem. Type II reactions use antibodies directed at cell-surface antigens, including incompatible red blood cells.
+EXPLANATION D: This is the best answer. Type II reactions use antibodies directed at cell-surface antigens, including incompatible red blood cells. The stem is asking about the specific relationship represented by Type II; the other options refer to separate mechanisms or conditions.
+===== QUESTION 07 END =====
+
+===== QUESTION 08 START =====
+ID: M2-Q08
+STEM: Immune complexes deposit in tissues and activate inflammation. Which hypersensitivity type is this?
+OPTION A: Type II
+OPTION B: Type IV
+OPTION C: Type III
+OPTION D: Type I
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Type III
+CORE RATIONALE: Type III reactions involve deposited soluble antigen-antibody complexes rather than isolated IgE or delayed T-cell reactions.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Type III. Type III reactions involve deposited soluble antigen-antibody complexes rather than isolated IgE or delayed T-cell reactions. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Type II hypersensitivity is antibody mediated against cellular or tissue targets. The case instead points to Type III; compare the distinctive clinical clues and mechanism in the stem. Type III reactions involve deposited soluble antigen-antibody complexes rather than isolated IgE or delayed T-cell reactions.
+EXPLANATION B: Not the best answer. Type IV hypersensitivity is delayed and T-cell mediated. The case instead points to Type III; compare the distinctive clinical clues and mechanism in the stem. Type III reactions involve deposited soluble antigen-antibody complexes rather than isolated IgE or delayed T-cell reactions.
+EXPLANATION C: This is the best answer. Type III reactions involve deposited soluble antigen-antibody complexes rather than isolated IgE or delayed T-cell reactions. The stem is asking about the specific relationship represented by Type III; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer. Type I hypersensitivity is typically rapid IgE-mediated mast-cell activation. The case instead points to Type III; compare the distinctive clinical clues and mechanism in the stem. Type III reactions involve deposited soluble antigen-antibody complexes rather than isolated IgE or delayed T-cell reactions.
+===== QUESTION 08 END =====
+
+===== QUESTION 09 START =====
+ID: M2-Q09
+STEM: An itchy skin reaction develops 48 hours after exposure to a contact allergen. Which hypersensitivity type is most likely?
+OPTION A: Type IV
+OPTION B: Type I
+OPTION C: Type II
+OPTION D: Type III
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Type IV
+CORE RATIONALE: Delayed contact dermatitis is T-cell-mediated Type IV hypersensitivity.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Type IV. Delayed contact dermatitis is T-cell-mediated Type IV hypersensitivity. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Delayed contact dermatitis is T-cell-mediated Type IV hypersensitivity. The stem is asking about the specific relationship represented by Type IV; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer. Type I hypersensitivity is typically rapid IgE-mediated mast-cell activation. The case instead points to Type IV; compare the distinctive clinical clues and mechanism in the stem. Delayed contact dermatitis is T-cell-mediated Type IV hypersensitivity.
+EXPLANATION C: Not the best answer. Type II hypersensitivity is antibody mediated against cellular or tissue targets. The case instead points to Type IV; compare the distinctive clinical clues and mechanism in the stem. Delayed contact dermatitis is T-cell-mediated Type IV hypersensitivity.
+EXPLANATION D: Not the best answer. Type II hypersensitivity is antibody mediated against cellular or tissue targets. The case instead points to Type IV; compare the distinctive clinical clues and mechanism in the stem. Delayed contact dermatitis is T-cell-mediated Type IV hypersensitivity.
+===== QUESTION 09 END =====
+
+===== QUESTION 10 START =====
+ID: M2-Q10
+STEM: A woman has photosensitivity, joint pain, and kidney inflammation caused by autoantibodies. Which systemic disease fits best?
+OPTION A: Systemic lupus erythematosus
+OPTION B: Hemophilia A
+OPTION C: Chronic lymphocytic leukemia
+OPTION D: Asthma alone
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Systemic lupus erythematosus
+CORE RATIONALE: SLE is a multisystem autoimmune disorder with autoantibodies and immune-mediated injury.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Systemic lupus erythematosus. SLE is a multisystem autoimmune disorder with autoantibodies and immune-mediated injury. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. SLE is a multisystem autoimmune disorder with autoantibodies and immune-mediated injury. The stem is asking about the specific relationship represented by Systemic lupus erythematosus; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer. Hemophilia is a coagulation-factor disorder associated with deep tissue or joint bleeding. The case instead points to Systemic lupus erythematosus; compare the distinctive clinical clues and mechanism in the stem. SLE is a multisystem autoimmune disorder with autoantibodies and immune-mediated injury.
+EXPLANATION C: Not the best answer. Leukemia is a hematologic malignancy involving abnormal blood-forming cells. The case instead points to Systemic lupus erythematosus; compare the distinctive clinical clues and mechanism in the stem. SLE is a multisystem autoimmune disorder with autoantibodies and immune-mediated injury.
+EXPLANATION D: Not the best answer. Asthma typically produces variable, often reversible airflow limitation due to airway inflammation and bronchoconstriction. The case instead points to Systemic lupus erythematosus; compare the distinctive clinical clues and mechanism in the stem. SLE is a multisystem autoimmune disorder with autoantibodies and immune-mediated injury.
+===== QUESTION 10 END =====
+
+===== QUESTION 11 START =====
+ID: M2-Q11
+STEM: A patient has chronic symmetric small-joint swelling and morning stiffness. Which diagnosis most closely fits?
+OPTION A: Tay-Sachs disease
+OPTION B: Iron-deficiency anemia
+OPTION C: Rheumatoid arthritis
+OPTION D: Deep venous thrombosis
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Rheumatoid arthritis
+CORE RATIONALE: Rheumatoid arthritis produces inflammatory synovitis, often with symmetric small-joint involvement.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Rheumatoid arthritis. Rheumatoid arthritis produces inflammatory synovitis, often with symmetric small-joint involvement. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Tay-Sachs disease does not account for the particular findings or mechanism specified in the stem. The supported response is Rheumatoid arthritis. Rheumatoid arthritis produces inflammatory synovitis, often with symmetric small-joint involvement.
+EXPLANATION B: Not the best answer. Anemia means reduced red-cell mass or hemoglobin and can impair oxygen delivery. The case instead points to Rheumatoid arthritis; compare the distinctive clinical clues and mechanism in the stem. Rheumatoid arthritis produces inflammatory synovitis, often with symmetric small-joint involvement.
+EXPLANATION C: This is the best answer. Rheumatoid arthritis produces inflammatory synovitis, often with symmetric small-joint involvement. The stem is asking about the specific relationship represented by Rheumatoid arthritis; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer in this clinical context. Deep venous thrombosis does not account for the particular findings or mechanism specified in the stem. The supported response is Rheumatoid arthritis. Rheumatoid arthritis produces inflammatory synovitis, often with symmetric small-joint involvement.
+===== QUESTION 11 END =====
+
+===== QUESTION 12 START =====
+ID: M2-Q12
+STEM: A patient has joint pain and a butterfly-pattern facial rash with evidence of renal injury. Which finding favors lupus over rheumatoid arthritis?
+OPTION A: Only obstructive airflow limitation
+OPTION B: Only unilateral calf swelling
+OPTION C: Multisystem autoimmunity with nephritis
+OPTION D: Isolated low platelet factor VIII
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Multisystem autoimmunity with nephritis
+CORE RATIONALE: SLE commonly affects multiple systems including kidneys; RA primarily targets joints though extra-articular illness can occur.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Multisystem autoimmunity with nephritis. SLE commonly affects multiple systems including kidneys; RA primarily targets joints though extra-articular illness can occur. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Only obstructive airflow limitation does not account for the particular findings or mechanism specified in the stem. The supported response is Multisystem autoimmunity with nephritis. SLE commonly affects multiple systems including kidneys; RA primarily targets joints though extra-articular illness can occur.
+EXPLANATION B: Not the best answer in this clinical context. Only unilateral calf swelling does not account for the particular findings or mechanism specified in the stem. The supported response is Multisystem autoimmunity with nephritis. SLE commonly affects multiple systems including kidneys; RA primarily targets joints though extra-articular illness can occur.
+EXPLANATION C: This is the best answer. SLE commonly affects multiple systems including kidneys; RA primarily targets joints though extra-articular illness can occur. The stem is asking about the specific relationship represented by Multisystem autoimmunity with nephritis; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer in this clinical context. Isolated low platelet factor VIII does not account for the particular findings or mechanism specified in the stem. The supported response is Multisystem autoimmunity with nephritis. SLE commonly affects multiple systems including kidneys; RA primarily targets joints though extra-articular illness can occur.
+===== QUESTION 12 END =====
+
+===== QUESTION 13 START =====
+ID: M2-Q13
+STEM: An abnormally elevated white blood cell count during infection is called what?
+OPTION A: Erythrocytosis
+OPTION B: Leukopenia
+OPTION C: Thrombocytopenia
+OPTION D: Leukocytosis
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Leukocytosis
+CORE RATIONALE: Leukocytosis is elevated WBC count; leukopenia is low WBC, thrombocytopenia is low platelets.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Leukocytosis. Leukocytosis is elevated WBC count; leukopenia is low WBC, thrombocytopenia is low platelets. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Erythrocytosis does not account for the particular findings or mechanism specified in the stem. The supported response is Leukocytosis. Leukocytosis is elevated WBC count; leukopenia is low WBC, thrombocytopenia is low platelets.
+EXPLANATION B: Not the best answer in this clinical context. Leukopenia does not account for the particular findings or mechanism specified in the stem. The supported response is Leukocytosis. Leukocytosis is elevated WBC count; leukopenia is low WBC, thrombocytopenia is low platelets.
+EXPLANATION C: Not the best answer. Thrombocytopenia is a reduced platelet count, usually causing mucocutaneous bleeding. The case instead points to Leukocytosis; compare the distinctive clinical clues and mechanism in the stem. Leukocytosis is elevated WBC count; leukopenia is low WBC, thrombocytopenia is low platelets.
+EXPLANATION D: This is the best answer. Leukocytosis is elevated WBC count; leukopenia is low WBC, thrombocytopenia is low platelets. The stem is asking about the specific relationship represented by Leukocytosis; the other options refer to separate mechanisms or conditions.
+===== QUESTION 13 END =====
+
+===== QUESTION 14 START =====
+ID: M2-Q14
+STEM: A person receiving marrow-suppressing chemotherapy has a dangerously low circulating neutrophil count. Which term best describes it?
+OPTION A: Neutrophilia
+OPTION B: Neutropenia
+OPTION C: Polycythemia
+OPTION D: Thrombocytosis
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Neutropenia
+CORE RATIONALE: Neutropenia indicates reduced neutrophils and increased infection susceptibility.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Neutropenia. Neutropenia indicates reduced neutrophils and increased infection susceptibility. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Neutrophils participate prominently in acute bacterial defense and suppurative inflammation. The case instead points to Neutropenia; compare the distinctive clinical clues and mechanism in the stem. Neutropenia indicates reduced neutrophils and increased infection susceptibility.
+EXPLANATION B: This is the best answer. Neutropenia indicates reduced neutrophils and increased infection susceptibility. The stem is asking about the specific relationship represented by Neutropenia; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer in this clinical context. Polycythemia does not account for the particular findings or mechanism specified in the stem. The supported response is Neutropenia. Neutropenia indicates reduced neutrophils and increased infection susceptibility.
+EXPLANATION D: Not the best answer in this clinical context. Thrombocytosis does not account for the particular findings or mechanism specified in the stem. The supported response is Neutropenia. Neutropenia indicates reduced neutrophils and increased infection susceptibility.
+===== QUESTION 14 END =====
+
+===== QUESTION 15 START =====
+ID: M2-Q15
+STEM: A marrow specimen shows immature lymphoid blasts replacing normal marrow in a child. Which diagnosis is suggested?
+OPTION A: Acute lymphoblastic leukemia
+OPTION B: Iron-deficiency anemia
+OPTION C: Chronic lymphocytic leukemia
+OPTION D: Hodgkin lymphoma alone
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Acute lymphoblastic leukemia
+CORE RATIONALE: ALL features lymphoblast proliferation and commonly occurs in children; CLL involves mature-appearing lymphocytes.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Acute lymphoblastic leukemia. ALL features lymphoblast proliferation and commonly occurs in children; CLL involves mature-appearing lymphocytes. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. ALL features lymphoblast proliferation and commonly occurs in children; CLL involves mature-appearing lymphocytes. The stem is asking about the specific relationship represented by Acute lymphoblastic leukemia; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer. Anemia means reduced red-cell mass or hemoglobin and can impair oxygen delivery. The case instead points to Acute lymphoblastic leukemia; compare the distinctive clinical clues and mechanism in the stem. ALL features lymphoblast proliferation and commonly occurs in children; CLL involves mature-appearing lymphocytes.
+EXPLANATION C: Not the best answer. Leukemia is a hematologic malignancy involving abnormal blood-forming cells. The case instead points to Acute lymphoblastic leukemia; compare the distinctive clinical clues and mechanism in the stem. ALL features lymphoblast proliferation and commonly occurs in children; CLL involves mature-appearing lymphocytes.
+EXPLANATION D: Not the best answer. Lymphoma is a malignancy of lymphoid cells, frequently involving lymph nodes or other lymphoid tissues. The case instead points to Acute lymphoblastic leukemia; compare the distinctive clinical clues and mechanism in the stem. ALL features lymphoblast proliferation and commonly occurs in children; CLL involves mature-appearing lymphocytes.
+===== QUESTION 15 END =====
+
+===== QUESTION 16 START =====
+ID: M2-Q16
+STEM: An older adult has persistently elevated counts of mature-appearing monoclonal lymphocytes. Which diagnosis is most likely?
+OPTION A: Acute blood loss
+OPTION B: Hemophilia
+OPTION C: Chronic lymphocytic leukemia
+OPTION D: Sickle cell trait
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Chronic lymphocytic leukemia
+CORE RATIONALE: CLL typically involves mature clonal B lymphocytes in older adults, not a bleeding or RBC disorder.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Chronic lymphocytic leukemia. CLL typically involves mature clonal B lymphocytes in older adults, not a bleeding or RBC disorder. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Acute blood loss does not account for the particular findings or mechanism specified in the stem. The supported response is Chronic lymphocytic leukemia. CLL typically involves mature clonal B lymphocytes in older adults, not a bleeding or RBC disorder.
+EXPLANATION B: Not the best answer. Hemophilia is a coagulation-factor disorder associated with deep tissue or joint bleeding. The case instead points to Chronic lymphocytic leukemia; compare the distinctive clinical clues and mechanism in the stem. CLL typically involves mature clonal B lymphocytes in older adults, not a bleeding or RBC disorder.
+EXPLANATION C: This is the best answer. CLL typically involves mature clonal B lymphocytes in older adults, not a bleeding or RBC disorder. The stem is asking about the specific relationship represented by Chronic lymphocytic leukemia; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer. Sickle cell disease is a hemoglobinopathy caused by pathogenic HBB variants. The case instead points to Chronic lymphocytic leukemia; compare the distinctive clinical clues and mechanism in the stem. CLL typically involves mature clonal B lymphocytes in older adults, not a bleeding or RBC disorder.
+===== QUESTION 16 END =====
+
+===== QUESTION 17 START =====
+ID: M2-Q17
+STEM: A pathologist identifies malignant Reed-Sternberg cells in a node. These cells classically originate from which lineage?
+OPTION A: Erythrocytes
+OPTION B: Neutrophils
+OPTION C: Platelets
+OPTION D: B lymphocytes
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: B lymphocytes
+CORE RATIONALE: Classic Hodgkin lymphoma is of B-cell derivation; the hallmark cells do not arise from platelets or mature RBCs.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support B lymphocytes. Classic Hodgkin lymphoma is of B-cell derivation; the hallmark cells do not arise from platelets or mature RBCs. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Erythrocytes does not account for the particular findings or mechanism specified in the stem. The supported response is B lymphocytes. Classic Hodgkin lymphoma is of B-cell derivation; the hallmark cells do not arise from platelets or mature RBCs.
+EXPLANATION B: Not the best answer. Neutrophils participate prominently in acute bacterial defense and suppurative inflammation. The case instead points to B lymphocytes; compare the distinctive clinical clues and mechanism in the stem. Classic Hodgkin lymphoma is of B-cell derivation; the hallmark cells do not arise from platelets or mature RBCs.
+EXPLANATION C: Not the best answer in this clinical context. Platelets does not account for the particular findings or mechanism specified in the stem. The supported response is B lymphocytes. Classic Hodgkin lymphoma is of B-cell derivation; the hallmark cells do not arise from platelets or mature RBCs.
+EXPLANATION D: This is the best answer. Classic Hodgkin lymphoma is of B-cell derivation; the hallmark cells do not arise from platelets or mature RBCs. The stem is asking about the specific relationship represented by B lymphocytes; the other options refer to separate mechanisms or conditions.
+===== QUESTION 17 END =====
+
+===== QUESTION 18 START =====
+ID: M2-Q18
+STEM: A patient has painless lymphadenopathy, fever, night sweats and weight loss. Which malignant disorder category should be considered?
+OPTION A: Lymphoma
+OPTION B: Hemophilia carrier state
+OPTION C: Uncomplicated hyperlipidemia
+OPTION D: Hypovolemic shock alone
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Lymphoma
+CORE RATIONALE: Lymphoma can cause adenopathy and B symptoms; the other conditions do not explain that combination well.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Lymphoma. Lymphoma can cause adenopathy and B symptoms; the other conditions do not explain that combination well. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Lymphoma can cause adenopathy and B symptoms; the other conditions do not explain that combination well. The stem is asking about the specific relationship represented by Lymphoma; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer. Hemophilia is a coagulation-factor disorder associated with deep tissue or joint bleeding. The case instead points to Lymphoma; compare the distinctive clinical clues and mechanism in the stem. Lymphoma can cause adenopathy and B symptoms; the other conditions do not explain that combination well.
+EXPLANATION C: Not the best answer in this clinical context. Uncomplicated hyperlipidemia does not account for the particular findings or mechanism specified in the stem. The supported response is Lymphoma. Lymphoma can cause adenopathy and B symptoms; the other conditions do not explain that combination well.
+EXPLANATION D: Not the best answer in this clinical context. Hypovolemic shock alone does not account for the particular findings or mechanism specified in the stem. The supported response is Lymphoma. Lymphoma can cause adenopathy and B symptoms; the other conditions do not explain that combination well.
+===== QUESTION 18 END =====
+
+===== QUESTION 19 START =====
+ID: M2-Q19
+STEM: A person reports fatigue and exertional dyspnea with low hemoglobin concentration. What functional deficit explains many manifestations?
+OPTION A: Increased CFTR transport
+OPTION B: Reduced blood oxygen-carrying capacity
+OPTION C: Excess fibrin production
+OPTION D: Increased lung elastic recoil
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Reduced blood oxygen-carrying capacity
+CORE RATIONALE: Low hemoglobin reduces oxygen delivery despite a potentially normal measured oxygen saturation.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Reduced blood oxygen-carrying capacity. Low hemoglobin reduces oxygen delivery despite a potentially normal measured oxygen saturation. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. CFTR is an epithelial ion channel implicated in cystic fibrosis. The case instead points to Reduced blood oxygen-carrying capacity; compare the distinctive clinical clues and mechanism in the stem. Low hemoglobin reduces oxygen delivery despite a potentially normal measured oxygen saturation.
+EXPLANATION B: This is the best answer. Low hemoglobin reduces oxygen delivery despite a potentially normal measured oxygen saturation. The stem is asking about the specific relationship represented by Reduced blood oxygen-carrying capacity; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer. Fibrin forms a mesh stabilizing the platelet plug. The case instead points to Reduced blood oxygen-carrying capacity; compare the distinctive clinical clues and mechanism in the stem. Low hemoglobin reduces oxygen delivery despite a potentially normal measured oxygen saturation.
+EXPLANATION D: Not the best answer in this clinical context. Increased lung elastic recoil does not account for the particular findings or mechanism specified in the stem. The supported response is Reduced blood oxygen-carrying capacity. Low hemoglobin reduces oxygen delivery despite a potentially normal measured oxygen saturation.
+===== QUESTION 19 END =====
+
+===== QUESTION 20 START =====
+ID: M2-Q20
+STEM: A person with iron deficiency has small pale red cells. Which CBC pattern is expected?
+OPTION A: Macrocytic hyperchromic erythrocytosis
+OPTION B: Marked eosinophilia only
+OPTION C: Isolated thrombocytopenia
+OPTION D: Microcytic hypochromic anemia
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Microcytic hypochromic anemia
+CORE RATIONALE: Insufficient iron limits hemoglobin production and often produces low MCV and low cell hemoglobin.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Microcytic hypochromic anemia. Insufficient iron limits hemoglobin production and often produces low MCV and low cell hemoglobin. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Macrocytic hyperchromic erythrocytosis does not account for the particular findings or mechanism specified in the stem. The supported response is Microcytic hypochromic anemia. Insufficient iron limits hemoglobin production and often produces low MCV and low cell hemoglobin.
+EXPLANATION B: Not the best answer. Eosinophils are associated with certain parasite infections and allergic inflammation. The case instead points to Microcytic hypochromic anemia; compare the distinctive clinical clues and mechanism in the stem. Insufficient iron limits hemoglobin production and often produces low MCV and low cell hemoglobin.
+EXPLANATION C: Not the best answer. Thrombocytopenia is a reduced platelet count, usually causing mucocutaneous bleeding. The case instead points to Microcytic hypochromic anemia; compare the distinctive clinical clues and mechanism in the stem. Insufficient iron limits hemoglobin production and often produces low MCV and low cell hemoglobin.
+EXPLANATION D: This is the best answer. Insufficient iron limits hemoglobin production and often produces low MCV and low cell hemoglobin. The stem is asking about the specific relationship represented by Microcytic hypochromic anemia; the other options refer to separate mechanisms or conditions.
+===== QUESTION 20 END =====
+
+===== QUESTION 21 START =====
+ID: M2-Q21
+STEM: A patient with iron-deficiency anemia begins oral iron therapy. Which coadministered nutrient may increase absorption of nonheme iron?
+OPTION A: Vitamin B12
+OPTION B: Vitamin C
+OPTION C: Vitamin K
+OPTION D: Vitamin D
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Vitamin C
+CORE RATIONALE: Ascorbic acid can enhance nonheme iron absorption; B12 treats a different mechanism of anemia.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Vitamin C. Ascorbic acid can enhance nonheme iron absorption; B12 treats a different mechanism of anemia. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Vitamin B12 does not account for the particular findings or mechanism specified in the stem. The supported response is Vitamin C. Ascorbic acid can enhance nonheme iron absorption; B12 treats a different mechanism of anemia.
+EXPLANATION B: This is the best answer. Ascorbic acid can enhance nonheme iron absorption; B12 treats a different mechanism of anemia. The stem is asking about the specific relationship represented by Vitamin C; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer in this clinical context. Vitamin K does not account for the particular findings or mechanism specified in the stem. The supported response is Vitamin C. Ascorbic acid can enhance nonheme iron absorption; B12 treats a different mechanism of anemia.
+EXPLANATION D: Not the best answer in this clinical context. Vitamin D does not account for the particular findings or mechanism specified in the stem. The supported response is Vitamin C. Ascorbic acid can enhance nonheme iron absorption; B12 treats a different mechanism of anemia.
+===== QUESTION 21 END =====
+
+===== QUESTION 22 START =====
+ID: M2-Q22
+STEM: A patient with significant blood loss has pallor, tachycardia and low blood pressure. What is the main immediate hemodynamic concern?
+OPTION A: Thickened ventricular septum
+OPTION B: Excess erythrocytes
+OPTION C: Increased arterial volume
+OPTION D: Reduced circulating volume and perfusion
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Reduced circulating volume and perfusion
+CORE RATIONALE: Acute hemorrhage can produce hypovolemia with tachycardia and hypotension, not increased perfusion.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Reduced circulating volume and perfusion. Acute hemorrhage can produce hypovolemia with tachycardia and hypotension, not increased perfusion. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Thickened ventricular septum does not account for the particular findings or mechanism specified in the stem. The supported response is Reduced circulating volume and perfusion. Acute hemorrhage can produce hypovolemia with tachycardia and hypotension, not increased perfusion.
+EXPLANATION B: Not the best answer in this clinical context. Excess erythrocytes does not account for the particular findings or mechanism specified in the stem. The supported response is Reduced circulating volume and perfusion. Acute hemorrhage can produce hypovolemia with tachycardia and hypotension, not increased perfusion.
+EXPLANATION C: Not the best answer in this clinical context. Increased arterial volume does not account for the particular findings or mechanism specified in the stem. The supported response is Reduced circulating volume and perfusion. Acute hemorrhage can produce hypovolemia with tachycardia and hypotension, not increased perfusion.
+EXPLANATION D: This is the best answer. Acute hemorrhage can produce hypovolemia with tachycardia and hypotension, not increased perfusion. The stem is asking about the specific relationship represented by Reduced circulating volume and perfusion; the other options refer to separate mechanisms or conditions.
+===== QUESTION 22 END =====
+
+===== QUESTION 23 START =====
+ID: M2-Q23
+STEM: A patient has ongoing slow gastrointestinal bleeding over months. Which nutritional anemia can develop?
+OPTION A: Sickle cell disease
+OPTION B: Hemophilia B
+OPTION C: Aplastic crisis solely from HSV
+OPTION D: Iron-deficiency anemia
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Iron-deficiency anemia
+CORE RATIONALE: Chronic blood loss depletes body iron stores and may lead to microcytosis.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Iron-deficiency anemia. Chronic blood loss depletes body iron stores and may lead to microcytosis. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Sickle cell disease is a hemoglobinopathy caused by pathogenic HBB variants. The case instead points to Iron-deficiency anemia; compare the distinctive clinical clues and mechanism in the stem. Chronic blood loss depletes body iron stores and may lead to microcytosis.
+EXPLANATION B: Not the best answer. Hemophilia is a coagulation-factor disorder associated with deep tissue or joint bleeding. The case instead points to Iron-deficiency anemia; compare the distinctive clinical clues and mechanism in the stem. Chronic blood loss depletes body iron stores and may lead to microcytosis.
+EXPLANATION C: Not the best answer in this clinical context. Aplastic crisis solely from HSV does not account for the particular findings or mechanism specified in the stem. The supported response is Iron-deficiency anemia. Chronic blood loss depletes body iron stores and may lead to microcytosis.
+EXPLANATION D: This is the best answer. Chronic blood loss depletes body iron stores and may lead to microcytosis. The stem is asking about the specific relationship represented by Iron-deficiency anemia; the other options refer to separate mechanisms or conditions.
+===== QUESTION 23 END =====
+
+===== QUESTION 24 START =====
+ID: M2-Q24
+STEM: A patient has anemia, jaundice and elevated indirect bilirubin after accelerated erythrocyte destruction. Which process is present?
+OPTION A: Hemolysis
+OPTION B: Thrombocytosis
+OPTION C: Hypertrophy
+OPTION D: Atherosclerosis
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Hemolysis
+CORE RATIONALE: Hemolysis is premature RBC destruction; bilirubin increases from heme breakdown.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Hemolysis. Hemolysis is premature RBC destruction; bilirubin increases from heme breakdown. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Hemolysis is premature RBC destruction; bilirubin increases from heme breakdown. The stem is asking about the specific relationship represented by Hemolysis; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer in this clinical context. Thrombocytosis does not account for the particular findings or mechanism specified in the stem. The supported response is Hemolysis. Hemolysis is premature RBC destruction; bilirubin increases from heme breakdown.
+EXPLANATION C: Not the best answer. Hypertrophy enlarges existing cells, a different response from cell proliferation, cell death, or inflammatory recruitment. The case instead points to Hemolysis; compare the distinctive clinical clues and mechanism in the stem. Hemolysis is premature RBC destruction; bilirubin increases from heme breakdown.
+EXPLANATION D: Not the best answer. Atherosclerosis is lipid-rich inflammatory plaque formation in the arterial wall. The case instead points to Hemolysis; compare the distinctive clinical clues and mechanism in the stem. Hemolysis is premature RBC destruction; bilirubin increases from heme breakdown.
+===== QUESTION 24 END =====
+
+===== QUESTION 25 START =====
+ID: M2-Q25
+STEM: A patient inherited two pathogenic hemoglobin S alleles. Which disease can cause painful vaso-occlusive crises?
+OPTION A: Hodgkin lymphoma
+OPTION B: Sickle cell disease
+OPTION C: Selective IgA deficiency
+OPTION D: Hemophilia A
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Sickle cell disease
+CORE RATIONALE: HbS polymerization under low oxygen contributes to RBC sickling, hemolysis and vaso-occlusion.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Sickle cell disease. HbS polymerization under low oxygen contributes to RBC sickling, hemolysis and vaso-occlusion. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Lymphoma is a malignancy of lymphoid cells, frequently involving lymph nodes or other lymphoid tissues. The case instead points to Sickle cell disease; compare the distinctive clinical clues and mechanism in the stem. HbS polymerization under low oxygen contributes to RBC sickling, hemolysis and vaso-occlusion.
+EXPLANATION B: This is the best answer. HbS polymerization under low oxygen contributes to RBC sickling, hemolysis and vaso-occlusion. The stem is asking about the specific relationship represented by Sickle cell disease; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer. IgA supports mucosal immune defense; it is not a myocardial injury marker. The case instead points to Sickle cell disease; compare the distinctive clinical clues and mechanism in the stem. HbS polymerization under low oxygen contributes to RBC sickling, hemolysis and vaso-occlusion.
+EXPLANATION D: Not the best answer. Hemophilia is a coagulation-factor disorder associated with deep tissue or joint bleeding. The case instead points to Sickle cell disease; compare the distinctive clinical clues and mechanism in the stem. HbS polymerization under low oxygen contributes to RBC sickling, hemolysis and vaso-occlusion.
+===== QUESTION 25 END =====
+
+===== QUESTION 26 START =====
+ID: M2-Q26
+STEM: Two unaffected carriers of an autosomal recessive hemoglobin condition have a child. What is the chance of an affected child in each pregnancy?
+OPTION A: 50%
+OPTION B: 100%
+OPTION C: 25%
+OPTION D: 0%
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: 25%
+CORE RATIONALE: When both parents are heterozygous carriers, one in four genotype combinations is homozygous affected.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support 25%. When both parents are heterozygous carriers, one in four genotype combinations is homozygous affected. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. 50% does not account for the particular findings or mechanism specified in the stem. The supported response is 25%. When both parents are heterozygous carriers, one in four genotype combinations is homozygous affected.
+EXPLANATION B: Not the best answer in this clinical context. 100% does not account for the particular findings or mechanism specified in the stem. The supported response is 25%. When both parents are heterozygous carriers, one in four genotype combinations is homozygous affected.
+EXPLANATION C: This is the best answer. When both parents are heterozygous carriers, one in four genotype combinations is homozygous affected. The stem is asking about the specific relationship represented by 25%; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer in this clinical context. 0% does not account for the particular findings or mechanism specified in the stem. The supported response is 25%. When both parents are heterozygous carriers, one in four genotype combinations is homozygous affected.
+===== QUESTION 26 END =====
+
+===== QUESTION 27 START =====
+ID: M2-Q27
+STEM: An Rh-negative mother has developed anti-D antibodies against Rh-positive fetal RBCs. Which process may injure the fetus?
+OPTION A: Maternal IgG-mediated fetal erythrocyte hemolysis
+OPTION B: Alveolar collapse
+OPTION C: Platelet adhesion failure
+OPTION D: IgE-mediated bronchoconstriction
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Maternal IgG-mediated fetal erythrocyte hemolysis
+CORE RATIONALE: Maternal IgG crosses placenta and can destroy Rh-positive fetal RBCs; this is antibody-mediated hemolysis.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Maternal IgG-mediated fetal erythrocyte hemolysis. Maternal IgG crosses placenta and can destroy Rh-positive fetal RBCs; this is antibody-mediated hemolysis. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Maternal IgG crosses placenta and can destroy Rh-positive fetal RBCs; this is antibody-mediated hemolysis. The stem is asking about the specific relationship represented by Maternal IgG-mediated fetal erythrocyte hemolysis; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer in this clinical context. Alveolar collapse does not account for the particular findings or mechanism specified in the stem. The supported response is Maternal IgG-mediated fetal erythrocyte hemolysis. Maternal IgG crosses placenta and can destroy Rh-positive fetal RBCs; this is antibody-mediated hemolysis.
+EXPLANATION C: Not the best answer in this clinical context. Platelet adhesion failure does not account for the particular findings or mechanism specified in the stem. The supported response is Maternal IgG-mediated fetal erythrocyte hemolysis. Maternal IgG crosses placenta and can destroy Rh-positive fetal RBCs; this is antibody-mediated hemolysis.
+EXPLANATION D: Not the best answer. IgE is implicated in type I immediate hypersensitivity. The case instead points to Maternal IgG-mediated fetal erythrocyte hemolysis; compare the distinctive clinical clues and mechanism in the stem. Maternal IgG crosses placenta and can destroy Rh-positive fetal RBCs; this is antibody-mediated hemolysis.
+===== QUESTION 27 END =====
+
+===== QUESTION 28 START =====
+ID: M2-Q28
+STEM: A child develops petechiae and mucosal bleeding after a viral illness, with isolated low platelets. Which disorder fits?
+OPTION A: Factor VIII deficiency
+OPTION B: Polycythemia
+OPTION C: Chronic lymphocytic leukemia
+OPTION D: Immune thrombocytopenia
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Immune thrombocytopenia
+CORE RATIONALE: Immune thrombocytopenia features peripheral platelet destruction and mucocutaneous bleeding.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Immune thrombocytopenia. Immune thrombocytopenia features peripheral platelet destruction and mucocutaneous bleeding. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Factor VIII deficiency does not account for the particular findings or mechanism specified in the stem. The supported response is Immune thrombocytopenia. Immune thrombocytopenia features peripheral platelet destruction and mucocutaneous bleeding.
+EXPLANATION B: Not the best answer in this clinical context. Polycythemia does not account for the particular findings or mechanism specified in the stem. The supported response is Immune thrombocytopenia. Immune thrombocytopenia features peripheral platelet destruction and mucocutaneous bleeding.
+EXPLANATION C: Not the best answer. Leukemia is a hematologic malignancy involving abnormal blood-forming cells. The case instead points to Immune thrombocytopenia; compare the distinctive clinical clues and mechanism in the stem. Immune thrombocytopenia features peripheral platelet destruction and mucocutaneous bleeding.
+EXPLANATION D: This is the best answer. Immune thrombocytopenia features peripheral platelet destruction and mucocutaneous bleeding. The stem is asking about the specific relationship represented by Immune thrombocytopenia; the other options refer to separate mechanisms or conditions.
+===== QUESTION 28 END =====
+
+===== QUESTION 29 START =====
+ID: M2-Q29
+STEM: A patient has recurrent bleeding into joints and a prolonged aPTT with normal platelet count. What inherited defect is characteristic of hemophilia A?
+OPTION A: Excess IgA
+OPTION B: Vitamin C deficiency
+OPTION C: Factor VIII deficiency
+OPTION D: High LDL cholesterol
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Factor VIII deficiency
+CORE RATIONALE: Hemophilia A is factor VIII deficiency; deep-tissue/joint bleeding distinguishes factor defects from platelet problems.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Factor VIII deficiency. Hemophilia A is factor VIII deficiency; deep-tissue/joint bleeding distinguishes factor defects from platelet problems. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. IgA supports mucosal immune defense; it is not a myocardial injury marker. The case instead points to Factor VIII deficiency; compare the distinctive clinical clues and mechanism in the stem. Hemophilia A is factor VIII deficiency; deep-tissue/joint bleeding distinguishes factor defects from platelet problems.
+EXPLANATION B: Not the best answer in this clinical context. Vitamin C deficiency does not account for the particular findings or mechanism specified in the stem. The supported response is Factor VIII deficiency. Hemophilia A is factor VIII deficiency; deep-tissue/joint bleeding distinguishes factor defects from platelet problems.
+EXPLANATION C: This is the best answer. Hemophilia A is factor VIII deficiency; deep-tissue/joint bleeding distinguishes factor defects from platelet problems. The stem is asking about the specific relationship represented by Factor VIII deficiency; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer in this clinical context. High LDL cholesterol does not account for the particular findings or mechanism specified in the stem. The supported response is Factor VIII deficiency. Hemophilia A is factor VIII deficiency; deep-tissue/joint bleeding distinguishes factor defects from platelet problems.
+===== QUESTION 29 END =====
+
+===== QUESTION 30 START =====
+ID: M2-Q30
+STEM: An adolescent boy has a maternal family history of hemophilia. Which inheritance pattern is most characteristic of hemophilia A?
+OPTION A: Mitochondrial
+OPTION B: Trisomy
+OPTION C: Autosomal dominant
+OPTION D: X-linked recessive
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: X-linked recessive
+CORE RATIONALE: Hemophilia A is typically X-linked recessive due to F8 variants.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support X-linked recessive. Hemophilia A is typically X-linked recessive due to F8 variants. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Mitochondrial does not account for the particular findings or mechanism specified in the stem. The supported response is X-linked recessive. Hemophilia A is typically X-linked recessive due to F8 variants.
+EXPLANATION B: Not the best answer. Trisomy is an extra copy of a chromosome, as in common Down syndrome. The case instead points to X-linked recessive; compare the distinctive clinical clues and mechanism in the stem. Hemophilia A is typically X-linked recessive due to F8 variants.
+EXPLANATION C: Not the best answer. Autosomal dominant conditions can manifest with one pathogenic allele, as in Huntington disease. The case instead points to X-linked recessive; compare the distinctive clinical clues and mechanism in the stem. Hemophilia A is typically X-linked recessive due to F8 variants.
+EXPLANATION D: This is the best answer. Hemophilia A is typically X-linked recessive due to F8 variants. The stem is asking about the specific relationship represented by X-linked recessive; the other options refer to separate mechanisms or conditions.
+===== QUESTION 30 END =====
+
+===== QUESTION 31 START =====
+ID: M2-Q31
+STEM: A patient has frequent nosebleeds and pinpoint skin hemorrhages with severe thrombocytopenia. What part of hemostasis is primarily compromised?
+OPTION A: Hemoglobin oxygen binding
+OPTION B: Primary platelet plug formation
+OPTION C: Airway mucus transport
+OPTION D: Left ventricular relaxation
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Primary platelet plug formation
+CORE RATIONALE: Platelets are essential to primary hemostasis; platelet disorders often cause mucocutaneous bleeding.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Primary platelet plug formation. Platelets are essential to primary hemostasis; platelet disorders often cause mucocutaneous bleeding. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Hemoglobin carries oxygen in red blood cells. The case instead points to Primary platelet plug formation; compare the distinctive clinical clues and mechanism in the stem. Platelets are essential to primary hemostasis; platelet disorders often cause mucocutaneous bleeding.
+EXPLANATION B: This is the best answer. Platelets are essential to primary hemostasis; platelet disorders often cause mucocutaneous bleeding. The stem is asking about the specific relationship represented by Primary platelet plug formation; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer in this clinical context. Airway mucus transport does not account for the particular findings or mechanism specified in the stem. The supported response is Primary platelet plug formation. Platelets are essential to primary hemostasis; platelet disorders often cause mucocutaneous bleeding.
+EXPLANATION D: Not the best answer in this clinical context. Left ventricular relaxation does not account for the particular findings or mechanism specified in the stem. The supported response is Primary platelet plug formation. Platelets are essential to primary hemostasis; platelet disorders often cause mucocutaneous bleeding.
+===== QUESTION 31 END =====
+
+===== QUESTION 32 START =====
+ID: M2-Q32
+STEM: A patient has deep muscle hematomas but a normal platelet count and deficient clotting factor. What stage is most impaired?
+OPTION A: T-cell negative selection
+OPTION B: Secondary fibrin clot formation
+OPTION C: Pulmonary ventilation
+OPTION D: Erythropoiesis
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Secondary fibrin clot formation
+CORE RATIONALE: Coagulation factors create and stabilize fibrin in secondary hemostasis; platelets may be normal.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Secondary fibrin clot formation. Coagulation factors create and stabilize fibrin in secondary hemostasis; platelets may be normal. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. T-cell negative selection does not account for the particular findings or mechanism specified in the stem. The supported response is Secondary fibrin clot formation. Coagulation factors create and stabilize fibrin in secondary hemostasis; platelets may be normal.
+EXPLANATION B: This is the best answer. Coagulation factors create and stabilize fibrin in secondary hemostasis; platelets may be normal. The stem is asking about the specific relationship represented by Secondary fibrin clot formation; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer in this clinical context. Pulmonary ventilation does not account for the particular findings or mechanism specified in the stem. The supported response is Secondary fibrin clot formation. Coagulation factors create and stabilize fibrin in secondary hemostasis; platelets may be normal.
+EXPLANATION D: Not the best answer in this clinical context. Erythropoiesis does not account for the particular findings or mechanism specified in the stem. The supported response is Secondary fibrin clot formation. Coagulation factors create and stabilize fibrin in secondary hemostasis; platelets may be normal.
+===== QUESTION 32 END =====
+
+===== QUESTION 33 START =====
+ID: M2-Q33
+STEM: A clinician measures a prolonged PT/INR in a patient taking warfarin. Which pathway does PT chiefly assess?
+OPTION A: Extrinsic and common coagulation pathways
+OPTION B: Only platelet aggregation
+OPTION C: Only intrinsic pathway
+OPTION D: Only fibrinolysis
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Extrinsic and common coagulation pathways
+CORE RATIONALE: PT is sensitive to extrinsic/common factors; aPTT is used for intrinsic/common assessment.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Extrinsic and common coagulation pathways. PT is sensitive to extrinsic/common factors; aPTT is used for intrinsic/common assessment. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. PT is sensitive to extrinsic/common factors; aPTT is used for intrinsic/common assessment. The stem is asking about the specific relationship represented by Extrinsic and common coagulation pathways; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer in this clinical context. Only platelet aggregation does not account for the particular findings or mechanism specified in the stem. The supported response is Extrinsic and common coagulation pathways. PT is sensitive to extrinsic/common factors; aPTT is used for intrinsic/common assessment.
+EXPLANATION C: Not the best answer in this clinical context. Only intrinsic pathway does not account for the particular findings or mechanism specified in the stem. The supported response is Extrinsic and common coagulation pathways. PT is sensitive to extrinsic/common factors; aPTT is used for intrinsic/common assessment.
+EXPLANATION D: Not the best answer. Fibrinolysis is enzymatic breakdown of fibrin within a clot. The case instead points to Extrinsic and common coagulation pathways; compare the distinctive clinical clues and mechanism in the stem. PT is sensitive to extrinsic/common factors; aPTT is used for intrinsic/common assessment.
+===== QUESTION 33 END =====
+
+===== QUESTION 34 START =====
+ID: M2-Q34
+STEM: An isolated prolonged aPTT suggests a problem involving which coagulation pathway?
+OPTION A: Only extrinsic factor VII
+OPTION B: Only erythropoiesis
+OPTION C: Only platelet count
+OPTION D: Intrinsic or common pathway
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Intrinsic or common pathway
+CORE RATIONALE: aPTT evaluates intrinsic and common pathway contributions, not platelet quantity.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Intrinsic or common pathway. aPTT evaluates intrinsic and common pathway contributions, not platelet quantity. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Only extrinsic factor VII does not account for the particular findings or mechanism specified in the stem. The supported response is Intrinsic or common pathway. aPTT evaluates intrinsic and common pathway contributions, not platelet quantity.
+EXPLANATION B: Not the best answer in this clinical context. Only erythropoiesis does not account for the particular findings or mechanism specified in the stem. The supported response is Intrinsic or common pathway. aPTT evaluates intrinsic and common pathway contributions, not platelet quantity.
+EXPLANATION C: Not the best answer in this clinical context. Only platelet count does not account for the particular findings or mechanism specified in the stem. The supported response is Intrinsic or common pathway. aPTT evaluates intrinsic and common pathway contributions, not platelet quantity.
+EXPLANATION D: This is the best answer. aPTT evaluates intrinsic and common pathway contributions, not platelet quantity. The stem is asking about the specific relationship represented by Intrinsic or common pathway; the other options refer to separate mechanisms or conditions.
+===== QUESTION 34 END =====
+
+===== QUESTION 35 START =====
+ID: M2-Q35
+STEM: A patient with a clotting disorder has insufficient fibrin generation. Which enzyme normally converts fibrinogen to fibrin?
+OPTION A: Troponin
+OPTION B: Histamine
+OPTION C: Thrombin
+OPTION D: Plasmin
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Thrombin
+CORE RATIONALE: Thrombin cleaves fibrinogen to fibrin; plasmin instead degrades fibrin.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Thrombin. Thrombin cleaves fibrinogen to fibrin; plasmin instead degrades fibrin. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Cardiac troponin is a marker of myocardial cell injury rather than a marker of infection or immune antibodies. The case instead points to Thrombin; compare the distinctive clinical clues and mechanism in the stem. Thrombin cleaves fibrinogen to fibrin; plasmin instead degrades fibrin.
+EXPLANATION B: Not the best answer. Histamine participates in allergic and inflammatory vascular responses. The case instead points to Thrombin; compare the distinctive clinical clues and mechanism in the stem. Thrombin cleaves fibrinogen to fibrin; plasmin instead degrades fibrin.
+EXPLANATION C: This is the best answer. Thrombin cleaves fibrinogen to fibrin; plasmin instead degrades fibrin. The stem is asking about the specific relationship represented by Thrombin; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer. Plasmin degrades fibrin rather than producing it. The case instead points to Thrombin; compare the distinctive clinical clues and mechanism in the stem. Thrombin cleaves fibrinogen to fibrin; plasmin instead degrades fibrin.
+===== QUESTION 35 END =====
+
+===== QUESTION 36 START =====
+ID: M2-Q36
+STEM: After vessel injury, platelets bind exposed subendothelial structures. What is an early platelet function?
+OPTION A: Generation of antibodies
+OPTION B: Secretion of surfactant
+OPTION C: Conversion of hemoglobin to bilirubin
+OPTION D: Adhesion to the injured vessel
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Adhesion to the injured vessel
+CORE RATIONALE: Platelet adhesion initiates primary hemostasis; coagulation strengthens the initial plug.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Adhesion to the injured vessel. Platelet adhesion initiates primary hemostasis; coagulation strengthens the initial plug. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Generation of antibodies does not account for the particular findings or mechanism specified in the stem. The supported response is Adhesion to the injured vessel. Platelet adhesion initiates primary hemostasis; coagulation strengthens the initial plug.
+EXPLANATION B: Not the best answer in this clinical context. Secretion of surfactant does not account for the particular findings or mechanism specified in the stem. The supported response is Adhesion to the injured vessel. Platelet adhesion initiates primary hemostasis; coagulation strengthens the initial plug.
+EXPLANATION C: Not the best answer. Hemoglobin carries oxygen in red blood cells. The case instead points to Adhesion to the injured vessel; compare the distinctive clinical clues and mechanism in the stem. Platelet adhesion initiates primary hemostasis; coagulation strengthens the initial plug.
+EXPLANATION D: This is the best answer. Platelet adhesion initiates primary hemostasis; coagulation strengthens the initial plug. The stem is asking about the specific relationship represented by Adhesion to the injured vessel; the other options refer to separate mechanisms or conditions.
+===== QUESTION 36 END =====
+
+===== QUESTION 37 START =====
+ID: M2-Q37
+STEM: A patient taking heparin develops a critically low platelet count with new thrombosis. Which important complication should be considered?
+OPTION A: Isolated asthma
+OPTION B: Type IV contact dermatitis
+OPTION C: Uncomplicated iron deficiency
+OPTION D: Heparin-induced thrombocytopenia
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Heparin-induced thrombocytopenia
+CORE RATIONALE: Immune HIT can cause platelet activation, thrombocytopenia and paradoxical thrombosis.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Heparin-induced thrombocytopenia. Immune HIT can cause platelet activation, thrombocytopenia and paradoxical thrombosis. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Asthma typically produces variable, often reversible airflow limitation due to airway inflammation and bronchoconstriction. The case instead points to Heparin-induced thrombocytopenia; compare the distinctive clinical clues and mechanism in the stem. Immune HIT can cause platelet activation, thrombocytopenia and paradoxical thrombosis.
+EXPLANATION B: Not the best answer. Type IV hypersensitivity is delayed and T-cell mediated. The case instead points to Heparin-induced thrombocytopenia; compare the distinctive clinical clues and mechanism in the stem. Immune HIT can cause platelet activation, thrombocytopenia and paradoxical thrombosis.
+EXPLANATION C: Not the best answer in this clinical context. Uncomplicated iron deficiency does not account for the particular findings or mechanism specified in the stem. The supported response is Heparin-induced thrombocytopenia. Immune HIT can cause platelet activation, thrombocytopenia and paradoxical thrombosis.
+EXPLANATION D: This is the best answer. Immune HIT can cause platelet activation, thrombocytopenia and paradoxical thrombosis. The stem is asking about the specific relationship represented by Heparin-induced thrombocytopenia; the other options refer to separate mechanisms or conditions.
+===== QUESTION 37 END =====
+
+===== QUESTION 38 START =====
+ID: M2-Q38
+STEM: A child develops anemia, thrombocytopenia and acute kidney injury after bloody diarrhea. Which syndrome is most characteristic?
+OPTION A: Hemophilia B
+OPTION B: Selective IgA deficiency
+OPTION C: Hemolytic-uremic syndrome
+OPTION D: Huntington disease
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Hemolytic-uremic syndrome
+CORE RATIONALE: HUS involves microangiopathic hemolysis, low platelets and kidney injury, sometimes after Shiga-toxin exposure.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Hemolytic-uremic syndrome. HUS involves microangiopathic hemolysis, low platelets and kidney injury, sometimes after Shiga-toxin exposure. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Hemophilia is a coagulation-factor disorder associated with deep tissue or joint bleeding. The case instead points to Hemolytic-uremic syndrome; compare the distinctive clinical clues and mechanism in the stem. HUS involves microangiopathic hemolysis, low platelets and kidney injury, sometimes after Shiga-toxin exposure.
+EXPLANATION B: Not the best answer. IgA supports mucosal immune defense; it is not a myocardial injury marker. The case instead points to Hemolytic-uremic syndrome; compare the distinctive clinical clues and mechanism in the stem. HUS involves microangiopathic hemolysis, low platelets and kidney injury, sometimes after Shiga-toxin exposure.
+EXPLANATION C: This is the best answer. HUS involves microangiopathic hemolysis, low platelets and kidney injury, sometimes after Shiga-toxin exposure. The stem is asking about the specific relationship represented by Hemolytic-uremic syndrome; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer in this clinical context. Huntington disease does not account for the particular findings or mechanism specified in the stem. The supported response is Hemolytic-uremic syndrome. HUS involves microangiopathic hemolysis, low platelets and kidney injury, sometimes after Shiga-toxin exposure.
+===== QUESTION 38 END =====
+
+===== QUESTION 39 START =====
+ID: M2-Q39
+STEM: A patient has an elevated plasma LDL concentration over years. Which arterial process is facilitated?
+OPTION A: Increased alveolar compliance
+OPTION B: Atherosclerotic plaque formation
+OPTION C: Prevention of endothelial injury
+OPTION D: Myelin repair
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Atherosclerotic plaque formation
+CORE RATIONALE: High LDL contributes to lipid accumulation and arterial atherogenesis.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Atherosclerotic plaque formation. High LDL contributes to lipid accumulation and arterial atherogenesis. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Increased alveolar compliance does not account for the particular findings or mechanism specified in the stem. The supported response is Atherosclerotic plaque formation. High LDL contributes to lipid accumulation and arterial atherogenesis.
+EXPLANATION B: This is the best answer. High LDL contributes to lipid accumulation and arterial atherogenesis. The stem is asking about the specific relationship represented by Atherosclerotic plaque formation; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer in this clinical context. Prevention of endothelial injury does not account for the particular findings or mechanism specified in the stem. The supported response is Atherosclerotic plaque formation. High LDL contributes to lipid accumulation and arterial atherogenesis.
+EXPLANATION D: Not the best answer in this clinical context. Myelin repair does not account for the particular findings or mechanism specified in the stem. The supported response is Atherosclerotic plaque formation. High LDL contributes to lipid accumulation and arterial atherogenesis.
+===== QUESTION 39 END =====
+
+===== QUESTION 40 START =====
+ID: M2-Q40
+STEM: An arterial plaque has formed with lipid-rich material and fibrous tissue. Which event contributes early in disease?
+OPTION A: Thymic aplasia
+OPTION B: Platelet deficiency alone
+OPTION C: Complete absence of immune activity
+OPTION D: Endothelial dysfunction with lipid retention
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Endothelial dysfunction with lipid retention
+CORE RATIONALE: Atherosclerosis involves endothelial dysfunction, retained lipoproteins and inflammatory responses.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Endothelial dysfunction with lipid retention. Atherosclerosis involves endothelial dysfunction, retained lipoproteins and inflammatory responses. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Thymic aplasia does not account for the particular findings or mechanism specified in the stem. The supported response is Endothelial dysfunction with lipid retention. Atherosclerosis involves endothelial dysfunction, retained lipoproteins and inflammatory responses.
+EXPLANATION B: Not the best answer in this clinical context. Platelet deficiency alone does not account for the particular findings or mechanism specified in the stem. The supported response is Endothelial dysfunction with lipid retention. Atherosclerosis involves endothelial dysfunction, retained lipoproteins and inflammatory responses.
+EXPLANATION C: Not the best answer in this clinical context. Complete absence of immune activity does not account for the particular findings or mechanism specified in the stem. The supported response is Endothelial dysfunction with lipid retention. Atherosclerosis involves endothelial dysfunction, retained lipoproteins and inflammatory responses.
+EXPLANATION D: This is the best answer. Atherosclerosis involves endothelial dysfunction, retained lipoproteins and inflammatory responses. The stem is asking about the specific relationship represented by Endothelial dysfunction with lipid retention; the other options refer to separate mechanisms or conditions.
+===== QUESTION 40 END =====
+
+===== QUESTION 41 START =====
+ID: M2-Q41
+STEM: A patient repeatedly has resting pressures around 170/100 mmHg. Which condition is present?
+OPTION A: Hypertension
+OPTION B: Anemia
+OPTION C: Hypovolemia
+OPTION D: Neutropenia
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Hypertension
+CORE RATIONALE: Persistently elevated arterial pressure defines hypertension; the other diagnoses are distinct.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Hypertension. Persistently elevated arterial pressure defines hypertension; the other diagnoses are distinct. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Persistently elevated arterial pressure defines hypertension; the other diagnoses are distinct. The stem is asking about the specific relationship represented by Hypertension; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer. Anemia means reduced red-cell mass or hemoglobin and can impair oxygen delivery. The case instead points to Hypertension; compare the distinctive clinical clues and mechanism in the stem. Persistently elevated arterial pressure defines hypertension; the other diagnoses are distinct.
+EXPLANATION C: Not the best answer in this clinical context. Hypovolemia does not account for the particular findings or mechanism specified in the stem. The supported response is Hypertension. Persistently elevated arterial pressure defines hypertension; the other diagnoses are distinct.
+EXPLANATION D: Not the best answer in this clinical context. Neutropenia does not account for the particular findings or mechanism specified in the stem. The supported response is Hypertension. Persistently elevated arterial pressure defines hypertension; the other diagnoses are distinct.
+===== QUESTION 41 END =====
+
+===== QUESTION 42 START =====
+ID: M2-Q42
+STEM: A clinician discusses long-term uncontrolled hypertension. Which cardiovascular consequence is plausible?
+OPTION A: Elimination of arterial injury
+OPTION B: Left ventricular hypertrophy
+OPTION C: Guaranteed protection from stroke
+OPTION D: Reduced myocardial workload
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Left ventricular hypertrophy
+CORE RATIONALE: Pressure overload can enlarge individual cardiac myocytes and promote vascular injury.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Left ventricular hypertrophy. Pressure overload can enlarge individual cardiac myocytes and promote vascular injury. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Elimination of arterial injury does not account for the particular findings or mechanism specified in the stem. The supported response is Left ventricular hypertrophy. Pressure overload can enlarge individual cardiac myocytes and promote vascular injury.
+EXPLANATION B: This is the best answer. Pressure overload can enlarge individual cardiac myocytes and promote vascular injury. The stem is asking about the specific relationship represented by Left ventricular hypertrophy; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer in this clinical context. Guaranteed protection from stroke does not account for the particular findings or mechanism specified in the stem. The supported response is Left ventricular hypertrophy. Pressure overload can enlarge individual cardiac myocytes and promote vascular injury.
+EXPLANATION D: Not the best answer in this clinical context. Reduced myocardial workload does not account for the particular findings or mechanism specified in the stem. The supported response is Left ventricular hypertrophy. Pressure overload can enlarge individual cardiac myocytes and promote vascular injury.
+===== QUESTION 42 END =====
+
+===== QUESTION 43 START =====
+ID: M2-Q43
+STEM: Imaging reveals a focal balloon-like enlargement of an abdominal artery. What is the finding?
+OPTION A: Aneurysm
+OPTION B: Hemarthrosis
+OPTION C: Varicosity
+OPTION D: Stricture
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Aneurysm
+CORE RATIONALE: An aneurysm is abnormal localized arterial dilation, unlike a dilated superficial vein or narrowed passage.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Aneurysm. An aneurysm is abnormal localized arterial dilation, unlike a dilated superficial vein or narrowed passage. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. An aneurysm is abnormal localized arterial dilation, unlike a dilated superficial vein or narrowed passage. The stem is asking about the specific relationship represented by Aneurysm; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer. Hemarthrosis is bleeding into a joint. The case instead points to Aneurysm; compare the distinctive clinical clues and mechanism in the stem. An aneurysm is abnormal localized arterial dilation, unlike a dilated superficial vein or narrowed passage.
+EXPLANATION C: Not the best answer. A varicosity is an abnormally enlarged superficial vein. The case instead points to Aneurysm; compare the distinctive clinical clues and mechanism in the stem. An aneurysm is abnormal localized arterial dilation, unlike a dilated superficial vein or narrowed passage.
+EXPLANATION D: Not the best answer. A stricture is abnormal narrowing of a tubular structure. The case instead points to Aneurysm; compare the distinctive clinical clues and mechanism in the stem. An aneurysm is abnormal localized arterial dilation, unlike a dilated superficial vein or narrowed passage.
+===== QUESTION 43 END =====
+
+===== QUESTION 44 START =====
+ID: M2-Q44
+STEM: Aneurysm rupture is a concern primarily because of which complication?
+OPTION A: Severe internal hemorrhage
+OPTION B: Excessive surfactant secretion
+OPTION C: Chronic leukopenia
+OPTION D: Immediate IgE class switching
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Severe internal hemorrhage
+CORE RATIONALE: Rupture of a major arterial aneurysm can cause life-threatening blood loss.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Severe internal hemorrhage. Rupture of a major arterial aneurysm can cause life-threatening blood loss. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Rupture of a major arterial aneurysm can cause life-threatening blood loss. The stem is asking about the specific relationship represented by Severe internal hemorrhage; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer in this clinical context. Excessive surfactant secretion does not account for the particular findings or mechanism specified in the stem. The supported response is Severe internal hemorrhage. Rupture of a major arterial aneurysm can cause life-threatening blood loss.
+EXPLANATION C: Not the best answer in this clinical context. Chronic leukopenia does not account for the particular findings or mechanism specified in the stem. The supported response is Severe internal hemorrhage. Rupture of a major arterial aneurysm can cause life-threatening blood loss.
+EXPLANATION D: Not the best answer. IgE is implicated in type I immediate hypersensitivity. The case instead points to Severe internal hemorrhage; compare the distinctive clinical clues and mechanism in the stem. Rupture of a major arterial aneurysm can cause life-threatening blood loss.
+===== QUESTION 44 END =====
+
+===== QUESTION 45 START =====
+ID: M2-Q45
+STEM: A child has prolonged fever, conjunctival injection, rash and concern for coronary artery abnormalities. Which diagnosis deserves evaluation?
+OPTION A: Chronic lymphocytic leukemia
+OPTION B: Tay-Sachs disease
+OPTION C: Hemophilia A
+OPTION D: Kawasaki disease
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Kawasaki disease
+CORE RATIONALE: Kawasaki disease is a childhood vasculitis associated with coronary artery complications.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Kawasaki disease. Kawasaki disease is a childhood vasculitis associated with coronary artery complications. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Leukemia is a hematologic malignancy involving abnormal blood-forming cells. The case instead points to Kawasaki disease; compare the distinctive clinical clues and mechanism in the stem. Kawasaki disease is a childhood vasculitis associated with coronary artery complications.
+EXPLANATION B: Not the best answer in this clinical context. Tay-Sachs disease does not account for the particular findings or mechanism specified in the stem. The supported response is Kawasaki disease. Kawasaki disease is a childhood vasculitis associated with coronary artery complications.
+EXPLANATION C: Not the best answer. Hemophilia is a coagulation-factor disorder associated with deep tissue or joint bleeding. The case instead points to Kawasaki disease; compare the distinctive clinical clues and mechanism in the stem. Kawasaki disease is a childhood vasculitis associated with coronary artery complications.
+EXPLANATION D: This is the best answer. Kawasaki disease is a childhood vasculitis associated with coronary artery complications. The stem is asking about the specific relationship represented by Kawasaki disease; the other options refer to separate mechanisms or conditions.
+===== QUESTION 45 END =====
+
+===== QUESTION 46 START =====
+ID: M2-Q46
+STEM: A patient develops immediate wheals after allergen exposure. Which cells typically release the relevant preformed mediator?
+OPTION A: Platelets alone
+OPTION B: Erythrocytes
+OPTION C: Mast cells
+OPTION D: Fibroblasts
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Mast cells
+CORE RATIONALE: Activated mast cells release histamine in IgE-mediated reactions.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Mast cells. Activated mast cells release histamine in IgE-mediated reactions. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Platelets alone does not account for the particular findings or mechanism specified in the stem. The supported response is Mast cells. Activated mast cells release histamine in IgE-mediated reactions.
+EXPLANATION B: Not the best answer in this clinical context. Erythrocytes does not account for the particular findings or mechanism specified in the stem. The supported response is Mast cells. Activated mast cells release histamine in IgE-mediated reactions.
+EXPLANATION C: This is the best answer. Activated mast cells release histamine in IgE-mediated reactions. The stem is asking about the specific relationship represented by Mast cells; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer in this clinical context. Fibroblasts does not account for the particular findings or mechanism specified in the stem. The supported response is Mast cells. Activated mast cells release histamine in IgE-mediated reactions.
+===== QUESTION 46 END =====
+
+===== QUESTION 47 START =====
+ID: M2-Q47
+STEM: A patient has generalized hives, wheezing and hypotension soon after exposure to an allergen. Which condition is most concerning?
+OPTION A: Anaphylaxis
+OPTION B: Iron deficiency alone
+OPTION C: Varicose veins
+OPTION D: Stable angina
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Anaphylaxis
+CORE RATIONALE: Anaphylaxis is an acute systemic hypersensitivity emergency affecting breathing and circulation.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Anaphylaxis. Anaphylaxis is an acute systemic hypersensitivity emergency affecting breathing and circulation. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Anaphylaxis is an acute systemic hypersensitivity emergency affecting breathing and circulation. The stem is asking about the specific relationship represented by Anaphylaxis; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer in this clinical context. Iron deficiency alone does not account for the particular findings or mechanism specified in the stem. The supported response is Anaphylaxis. Anaphylaxis is an acute systemic hypersensitivity emergency affecting breathing and circulation.
+EXPLANATION C: Not the best answer. A varicosity is an abnormally enlarged superficial vein. The case instead points to Anaphylaxis; compare the distinctive clinical clues and mechanism in the stem. Anaphylaxis is an acute systemic hypersensitivity emergency affecting breathing and circulation.
+EXPLANATION D: Not the best answer. Stable angina is transient myocardial ischemia predictably triggered by demand. The case instead points to Anaphylaxis; compare the distinctive clinical clues and mechanism in the stem. Anaphylaxis is an acute systemic hypersensitivity emergency affecting breathing and circulation.
+===== QUESTION 47 END =====
+
+===== QUESTION 48 START =====
+ID: M2-Q48
+STEM: An allergic patient asks what IgE mainly does. Which statement is accurate?
+OPTION A: It transports oxygen in erythrocytes
+OPTION B: It sensitizes mast cells and basophils to allergens
+OPTION C: It forms coronary plaques directly
+OPTION D: It converts fibrinogen into fibrin
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: It sensitizes mast cells and basophils to allergens
+CORE RATIONALE: IgE binds high-affinity receptors on mast cells/basophils and can trigger mediator release after cross-linking.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support It sensitizes mast cells and basophils to allergens. IgE binds high-affinity receptors on mast cells/basophils and can trigger mediator release after cross-linking. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. It transports oxygen in erythrocytes does not account for the particular findings or mechanism specified in the stem. The supported response is It sensitizes mast cells and basophils to allergens. IgE binds high-affinity receptors on mast cells/basophils and can trigger mediator release after cross-linking.
+EXPLANATION B: This is the best answer. IgE binds high-affinity receptors on mast cells/basophils and can trigger mediator release after cross-linking. The stem is asking about the specific relationship represented by It sensitizes mast cells and basophils to allergens; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer in this clinical context. It forms coronary plaques directly does not account for the particular findings or mechanism specified in the stem. The supported response is It sensitizes mast cells and basophils to allergens. IgE binds high-affinity receptors on mast cells/basophils and can trigger mediator release after cross-linking.
+EXPLANATION D: Not the best answer. Fibrin forms a mesh stabilizing the platelet plug. The case instead points to It sensitizes mast cells and basophils to allergens; compare the distinctive clinical clues and mechanism in the stem. IgE binds high-affinity receptors on mast cells/basophils and can trigger mediator release after cross-linking.
+===== QUESTION 48 END =====
+
+===== QUESTION 49 START =====
+ID: M2-Q49
+STEM: A patient has chronic immune-complex-mediated glomerular injury. Which mechanism is most relevant to lupus nephritis?
+OPTION A: Pulmonary air trapping
+OPTION B: Reduced platelet count as sole cause
+OPTION C: Autoantibody and immune-complex injury
+OPTION D: Bacterial exotoxin exclusively
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Autoantibody and immune-complex injury
+CORE RATIONALE: Immune complexes and autoimmunity contribute to SLE renal injury; the other mechanisms are not sufficient.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Autoantibody and immune-complex injury. Immune complexes and autoimmunity contribute to SLE renal injury; the other mechanisms are not sufficient. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Pulmonary air trapping does not account for the particular findings or mechanism specified in the stem. The supported response is Autoantibody and immune-complex injury. Immune complexes and autoimmunity contribute to SLE renal injury; the other mechanisms are not sufficient.
+EXPLANATION B: Not the best answer in this clinical context. Reduced platelet count as sole cause does not account for the particular findings or mechanism specified in the stem. The supported response is Autoantibody and immune-complex injury. Immune complexes and autoimmunity contribute to SLE renal injury; the other mechanisms are not sufficient.
+EXPLANATION C: This is the best answer. Immune complexes and autoimmunity contribute to SLE renal injury; the other mechanisms are not sufficient. The stem is asking about the specific relationship represented by Autoantibody and immune-complex injury; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer in this clinical context. Bacterial exotoxin exclusively does not account for the particular findings or mechanism specified in the stem. The supported response is Autoantibody and immune-complex injury. Immune complexes and autoimmunity contribute to SLE renal injury; the other mechanisms are not sufficient.
+===== QUESTION 49 END =====
+
+===== QUESTION 50 START =====
+ID: M2-Q50
+STEM: A person has pallor but normal pulse oximetry saturation. Which inference is most accurate?
+OPTION A: Oxygen content may still be reduced if hemoglobin is low
+OPTION B: Pulse oximetry directly measures serum ferritin
+OPTION C: Normal saturation excludes anemia
+OPTION D: Every anemia causes cyanosis
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Oxygen content may still be reduced if hemoglobin is low
+CORE RATIONALE: Oxygen saturation indicates proportion of bound sites, not total hemoglobin available to carry oxygen.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Oxygen content may still be reduced if hemoglobin is low. Oxygen saturation indicates proportion of bound sites, not total hemoglobin available to carry oxygen. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Oxygen saturation indicates proportion of bound sites, not total hemoglobin available to carry oxygen. The stem is asking about the specific relationship represented by Oxygen content may still be reduced if hemoglobin is low; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer in this clinical context. Pulse oximetry directly measures serum ferritin does not account for the particular findings or mechanism specified in the stem. The supported response is Oxygen content may still be reduced if hemoglobin is low. Oxygen saturation indicates proportion of bound sites, not total hemoglobin available to carry oxygen.
+EXPLANATION C: Not the best answer. Anemia means reduced red-cell mass or hemoglobin and can impair oxygen delivery. The case instead points to Oxygen content may still be reduced if hemoglobin is low; compare the distinctive clinical clues and mechanism in the stem. Oxygen saturation indicates proportion of bound sites, not total hemoglobin available to carry oxygen.
+EXPLANATION D: Not the best answer. Anemia means reduced red-cell mass or hemoglobin and can impair oxygen delivery. The case instead points to Oxygen content may still be reduced if hemoglobin is low; compare the distinctive clinical clues and mechanism in the stem. Oxygen saturation indicates proportion of bound sites, not total hemoglobin available to carry oxygen.
+===== QUESTION 50 END =====

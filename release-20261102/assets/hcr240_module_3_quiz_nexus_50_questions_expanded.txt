@@ -1,0 +1,861 @@
+DR. MODALI LEARNING LABS | A DAY IN THE LIFE OF ALFIE
+MODULE 3 QUIZ NEXUS — COMPLETE CONTENT BANK
+Cardiac, Venous and Respiratory Disorders
+50 ORIGINAL PRACTICE QUESTIONS | 4 OPTIONS PER QUESTION
+
+ROSEBUD IMPORT INSTRUCTIONS:
+Treat each QUESTION START / QUESTION END block as a single immutable question record.
+Display one question at a time. Each answer locks upon first click.
+Use CORRECT ANSWER and the option explanations for immediate feedback and final downloadable study report.
+Do not expose correct answers or explanations until the student has submitted a selection.
+This is original practice content, not the institutional midterm exam.
+
+===== QUESTION 01 START =====
+ID: M3-Q01
+STEM: A patient has chest pressure while climbing stairs that resolves within minutes of rest. What mechanism best explains this pattern?
+OPTION A: A ruptured aneurysm
+OPTION B: Transient myocardial ischemia
+OPTION C: Inflammation of pleural membranes only
+OPTION D: Acute bacterial meningitis
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Transient myocardial ischemia
+CORE RATIONALE: Stable exertional angina results from temporary mismatch of coronary oxygen supply and demand.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Transient myocardial ischemia. Stable exertional angina results from temporary mismatch of coronary oxygen supply and demand. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. An aneurysm is a focal abnormal vessel dilation, generally involving an artery. The case instead points to Transient myocardial ischemia; compare the distinctive clinical clues and mechanism in the stem. Stable exertional angina results from temporary mismatch of coronary oxygen supply and demand.
+EXPLANATION B: This is the best answer. Stable exertional angina results from temporary mismatch of coronary oxygen supply and demand. The stem is asking about the specific relationship represented by Transient myocardial ischemia; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer in this clinical context. Inflammation of pleural membranes only does not account for the particular findings or mechanism specified in the stem. The supported response is Transient myocardial ischemia. Stable exertional angina results from temporary mismatch of coronary oxygen supply and demand.
+EXPLANATION D: Not the best answer. Meningitis involves inflammation of the meninges. The case instead points to Transient myocardial ischemia; compare the distinctive clinical clues and mechanism in the stem. Stable exertional angina results from temporary mismatch of coronary oxygen supply and demand.
+===== QUESTION 01 END =====
+
+===== QUESTION 02 START =====
+ID: M3-Q02
+STEM: A patient develops chest discomfort at rest with rapidly worsening episodes. Which syndrome category is concerning?
+OPTION A: Chronic sinusitis
+OPTION B: Isolated iron deficiency
+OPTION C: Uncomplicated varicose veins
+OPTION D: Acute coronary syndrome
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Acute coronary syndrome
+CORE RATIONALE: Unstable ischemic symptoms can signal acute coronary syndrome and require evaluation.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Acute coronary syndrome. Unstable ischemic symptoms can signal acute coronary syndrome and require evaluation. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Sinusitis is inflammation of the paranasal sinuses. The case instead points to Acute coronary syndrome; compare the distinctive clinical clues and mechanism in the stem. Unstable ischemic symptoms can signal acute coronary syndrome and require evaluation.
+EXPLANATION B: Not the best answer in this clinical context. Isolated iron deficiency does not account for the particular findings or mechanism specified in the stem. The supported response is Acute coronary syndrome. Unstable ischemic symptoms can signal acute coronary syndrome and require evaluation.
+EXPLANATION C: Not the best answer. A varicosity is an abnormally enlarged superficial vein. The case instead points to Acute coronary syndrome; compare the distinctive clinical clues and mechanism in the stem. Unstable ischemic symptoms can signal acute coronary syndrome and require evaluation.
+EXPLANATION D: This is the best answer. Unstable ischemic symptoms can signal acute coronary syndrome and require evaluation. The stem is asking about the specific relationship represented by Acute coronary syndrome; the other options refer to separate mechanisms or conditions.
+===== QUESTION 02 END =====
+
+===== QUESTION 03 START =====
+ID: M3-Q03
+STEM: A patient develops prolonged crushing chest discomfort and new ECG changes. Which blood biomarker most directly supports cardiomyocyte injury?
+OPTION A: Hematocrit
+OPTION B: Cardiac troponin
+OPTION C: Serum IgA
+OPTION D: HDL cholesterol
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Cardiac troponin
+CORE RATIONALE: Troponin rises after cardiac muscle injury; immunoglobulin and lipid values do not diagnose acute myocardial damage.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Cardiac troponin. Troponin rises after cardiac muscle injury; immunoglobulin and lipid values do not diagnose acute myocardial damage. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Hematocrit estimates the volume fraction of red blood cells, not myocardial cell injury. The case instead points to Cardiac troponin; compare the distinctive clinical clues and mechanism in the stem. Troponin rises after cardiac muscle injury; immunoglobulin and lipid values do not diagnose acute myocardial damage.
+EXPLANATION B: This is the best answer. Troponin rises after cardiac muscle injury; immunoglobulin and lipid values do not diagnose acute myocardial damage. The stem is asking about the specific relationship represented by Cardiac troponin; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer. IgA supports mucosal immune defense; it is not a myocardial injury marker. The case instead points to Cardiac troponin; compare the distinctive clinical clues and mechanism in the stem. Troponin rises after cardiac muscle injury; immunoglobulin and lipid values do not diagnose acute myocardial damage.
+EXPLANATION D: Not the best answer in this clinical context. HDL cholesterol does not account for the particular findings or mechanism specified in the stem. The supported response is Cardiac troponin. Troponin rises after cardiac muscle injury; immunoglobulin and lipid values do not diagnose acute myocardial damage.
+===== QUESTION 03 END =====
+
+===== QUESTION 04 START =====
+ID: M3-Q04
+STEM: A clinician orders serial troponin measurements for suspected infarction. Why are repeat levels useful?
+OPTION A: They help detect a rise or fall consistent with acute injury
+OPTION B: They determine platelet count
+OPTION C: They measure airflow obstruction
+OPTION D: They confirm an organism's identity
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: They help detect a rise or fall consistent with acute injury
+CORE RATIONALE: Dynamic troponin changes help identify acute myocardial injury and distinguish it from stable elevations.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support They help detect a rise or fall consistent with acute injury. Dynamic troponin changes help identify acute myocardial injury and distinguish it from stable elevations. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Dynamic troponin changes help identify acute myocardial injury and distinguish it from stable elevations. The stem is asking about the specific relationship represented by They help detect a rise or fall consistent with acute injury; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer in this clinical context. They determine platelet count does not account for the particular findings or mechanism specified in the stem. The supported response is They help detect a rise or fall consistent with acute injury. Dynamic troponin changes help identify acute myocardial injury and distinguish it from stable elevations.
+EXPLANATION C: Not the best answer in this clinical context. They measure airflow obstruction does not account for the particular findings or mechanism specified in the stem. The supported response is They help detect a rise or fall consistent with acute injury. Dynamic troponin changes help identify acute myocardial injury and distinguish it from stable elevations.
+EXPLANATION D: Not the best answer in this clinical context. They confirm an organism's identity does not account for the particular findings or mechanism specified in the stem. The supported response is They help detect a rise or fall consistent with acute injury. Dynamic troponin changes help identify acute myocardial injury and distinguish it from stable elevations.
+===== QUESTION 04 END =====
+
+===== QUESTION 05 START =====
+ID: M3-Q05
+STEM: An exercise test is requested for a stable patient with suspected coronary disease. What is assessed?
+OPTION A: Presence of urinary protein alone
+OPTION B: Red-cell antigen compatibility
+OPTION C: Evidence of inducible ischemia during exertion
+OPTION D: Presence of fungal spores in the airway
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Evidence of inducible ischemia during exertion
+CORE RATIONALE: Stress testing evaluates physiologic evidence of exertional myocardial ischemia, not infection or blood typing.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Evidence of inducible ischemia during exertion. Stress testing evaluates physiologic evidence of exertional myocardial ischemia, not infection or blood typing. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Presence of urinary protein alone does not account for the particular findings or mechanism specified in the stem. The supported response is Evidence of inducible ischemia during exertion. Stress testing evaluates physiologic evidence of exertional myocardial ischemia, not infection or blood typing.
+EXPLANATION B: Not the best answer. IgE is implicated in type I immediate hypersensitivity. The case instead points to Evidence of inducible ischemia during exertion; compare the distinctive clinical clues and mechanism in the stem. Stress testing evaluates physiologic evidence of exertional myocardial ischemia, not infection or blood typing.
+EXPLANATION C: This is the best answer. Stress testing evaluates physiologic evidence of exertional myocardial ischemia, not infection or blood typing. The stem is asking about the specific relationship represented by Evidence of inducible ischemia during exertion; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer in this clinical context. Presence of fungal spores in the airway does not account for the particular findings or mechanism specified in the stem. The supported response is Evidence of inducible ischemia during exertion. Stress testing evaluates physiologic evidence of exertional myocardial ischemia, not infection or blood typing.
+===== QUESTION 05 END =====
+
+===== QUESTION 06 START =====
+ID: M3-Q06
+STEM: A patient undergoes balloon dilation of a narrowed coronary artery. Which intervention was performed?
+OPTION A: Percutaneous coronary angioplasty
+OPTION B: Cardiac ablation
+OPTION C: Coronary artery bypass grafting
+OPTION D: Thoracentesis
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Percutaneous coronary angioplasty
+CORE RATIONALE: Angioplasty expands an arterial narrowing using a catheter; bypass surgery creates graft routes around lesions.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Percutaneous coronary angioplasty. Angioplasty expands an arterial narrowing using a catheter; bypass surgery creates graft routes around lesions. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Angioplasty expands an arterial narrowing using a catheter; bypass surgery creates graft routes around lesions. The stem is asking about the specific relationship represented by Percutaneous coronary angioplasty; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer in this clinical context. Cardiac ablation does not account for the particular findings or mechanism specified in the stem. The supported response is Percutaneous coronary angioplasty. Angioplasty expands an arterial narrowing using a catheter; bypass surgery creates graft routes around lesions.
+EXPLANATION C: Not the best answer in this clinical context. Coronary artery bypass grafting does not account for the particular findings or mechanism specified in the stem. The supported response is Percutaneous coronary angioplasty. Angioplasty expands an arterial narrowing using a catheter; bypass surgery creates graft routes around lesions.
+EXPLANATION D: Not the best answer in this clinical context. Thoracentesis does not account for the particular findings or mechanism specified in the stem. The supported response is Percutaneous coronary angioplasty. Angioplasty expands an arterial narrowing using a catheter; bypass surgery creates graft routes around lesions.
+===== QUESTION 06 END =====
+
+===== QUESTION 07 START =====
+ID: M3-Q07
+STEM: A surgeon uses a healthy vessel to reroute blood around a blocked coronary segment. Which procedure is this?
+OPTION A: Pulmonary thrombolysis
+OPTION B: Venous ablation
+OPTION C: Diagnostic bronchoscopy
+OPTION D: Coronary artery bypass grafting
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Coronary artery bypass grafting
+CORE RATIONALE: CABG uses graft vessels to restore coronary perfusion distal to obstruction.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Coronary artery bypass grafting. CABG uses graft vessels to restore coronary perfusion distal to obstruction. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Pulmonary thrombolysis does not account for the particular findings or mechanism specified in the stem. The supported response is Coronary artery bypass grafting. CABG uses graft vessels to restore coronary perfusion distal to obstruction.
+EXPLANATION B: Not the best answer in this clinical context. Venous ablation does not account for the particular findings or mechanism specified in the stem. The supported response is Coronary artery bypass grafting. CABG uses graft vessels to restore coronary perfusion distal to obstruction.
+EXPLANATION C: Not the best answer in this clinical context. Diagnostic bronchoscopy does not account for the particular findings or mechanism specified in the stem. The supported response is Coronary artery bypass grafting. CABG uses graft vessels to restore coronary perfusion distal to obstruction.
+EXPLANATION D: This is the best answer. CABG uses graft vessels to restore coronary perfusion distal to obstruction. The stem is asking about the specific relationship represented by Coronary artery bypass grafting; the other options refer to separate mechanisms or conditions.
+===== QUESTION 07 END =====
+
+===== QUESTION 08 START =====
+ID: M3-Q08
+STEM: A person has sudden coronary artery occlusion and myocardial necrosis. What is the diagnosis?
+OPTION A: Stable angina without cell death
+OPTION B: Myocardial infarction
+OPTION C: Simple bronchitis
+OPTION D: Pulmonary emphysema
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Myocardial infarction
+CORE RATIONALE: Myocardial infarction involves ischemic cardiomyocyte death; uncomplicated stable angina does not cause necrosis.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Myocardial infarction. Myocardial infarction involves ischemic cardiomyocyte death; uncomplicated stable angina does not cause necrosis. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Stable angina is transient myocardial ischemia predictably triggered by demand. The case instead points to Myocardial infarction; compare the distinctive clinical clues and mechanism in the stem. Myocardial infarction involves ischemic cardiomyocyte death; uncomplicated stable angina does not cause necrosis.
+EXPLANATION B: This is the best answer. Myocardial infarction involves ischemic cardiomyocyte death; uncomplicated stable angina does not cause necrosis. The stem is asking about the specific relationship represented by Myocardial infarction; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer. Bronchitis is inflammation of bronchi, often presenting with cough. The case instead points to Myocardial infarction; compare the distinctive clinical clues and mechanism in the stem. Myocardial infarction involves ischemic cardiomyocyte death; uncomplicated stable angina does not cause necrosis.
+EXPLANATION D: Not the best answer. Emphysema destroys alveolar walls and elastic recoil, causing air trapping. The case instead points to Myocardial infarction; compare the distinctive clinical clues and mechanism in the stem. Myocardial infarction involves ischemic cardiomyocyte death; uncomplicated stable angina does not cause necrosis.
+===== QUESTION 08 END =====
+
+===== QUESTION 09 START =====
+ID: M3-Q09
+STEM: A patient reports chest pain worsened by inspiration and focal pleural friction rub. Which characteristic makes classic stable angina less likely?
+OPTION A: Pressure-like substernal discomfort
+OPTION B: Pain triggered by activity
+OPTION C: Pain specifically linked to pleural respiration
+OPTION D: Relief with rest
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Pain specifically linked to pleural respiration
+CORE RATIONALE: Pleuritic respiratory-linked pain suggests a nonclassic ischemic pattern, whereas exertional pressure relieved by rest supports angina.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Pain specifically linked to pleural respiration. Pleuritic respiratory-linked pain suggests a nonclassic ischemic pattern, whereas exertional pressure relieved by rest supports angina. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Pressure-like substernal discomfort does not account for the particular findings or mechanism specified in the stem. The supported response is Pain specifically linked to pleural respiration. Pleuritic respiratory-linked pain suggests a nonclassic ischemic pattern, whereas exertional pressure relieved by rest supports angina.
+EXPLANATION B: Not the best answer in this clinical context. Pain triggered by activity does not account for the particular findings or mechanism specified in the stem. The supported response is Pain specifically linked to pleural respiration. Pleuritic respiratory-linked pain suggests a nonclassic ischemic pattern, whereas exertional pressure relieved by rest supports angina.
+EXPLANATION C: This is the best answer. Pleuritic respiratory-linked pain suggests a nonclassic ischemic pattern, whereas exertional pressure relieved by rest supports angina. The stem is asking about the specific relationship represented by Pain specifically linked to pleural respiration; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer in this clinical context. Relief with rest does not account for the particular findings or mechanism specified in the stem. The supported response is Pain specifically linked to pleural respiration. Pleuritic respiratory-linked pain suggests a nonclassic ischemic pattern, whereas exertional pressure relieved by rest supports angina.
+===== QUESTION 09 END =====
+
+===== QUESTION 10 START =====
+ID: M3-Q10
+STEM: A person has irregular heartbeat due to disrupted electrical conduction. What is this termed?
+OPTION A: Metaplasia
+OPTION B: Varicosity
+OPTION C: Effusion
+OPTION D: Dysrhythmia
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Dysrhythmia
+CORE RATIONALE: Dysrhythmia is abnormal cardiac rhythm; the other terms are fluid collection, vein dilation or cell adaptation.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Dysrhythmia. Dysrhythmia is abnormal cardiac rhythm; the other terms are fluid collection, vein dilation or cell adaptation. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Metaplasia is replacement of one differentiated cell type with another; it does not by itself establish the change being described. The case instead points to Dysrhythmia; compare the distinctive clinical clues and mechanism in the stem. Dysrhythmia is abnormal cardiac rhythm; the other terms are fluid collection, vein dilation or cell adaptation.
+EXPLANATION B: Not the best answer. A varicosity is an abnormally enlarged superficial vein. The case instead points to Dysrhythmia; compare the distinctive clinical clues and mechanism in the stem. Dysrhythmia is abnormal cardiac rhythm; the other terms are fluid collection, vein dilation or cell adaptation.
+EXPLANATION C: Not the best answer. An effusion is excess fluid in a body cavity, such as the pleural space. The case instead points to Dysrhythmia; compare the distinctive clinical clues and mechanism in the stem. Dysrhythmia is abnormal cardiac rhythm; the other terms are fluid collection, vein dilation or cell adaptation.
+EXPLANATION D: This is the best answer. Dysrhythmia is abnormal cardiac rhythm; the other terms are fluid collection, vein dilation or cell adaptation. The stem is asking about the specific relationship represented by Dysrhythmia; the other options refer to separate mechanisms or conditions.
+===== QUESTION 10 END =====
+
+===== QUESTION 11 START =====
+ID: M3-Q11
+STEM: An unconscious patient has ventricular fibrillation without a pulse. Which intervention is most immediately indicated?
+OPTION A: Elective exercise stress testing
+OPTION B: Oral iron supplementation
+OPTION C: Defibrillation with resuscitation
+OPTION D: Chest physiotherapy alone
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Defibrillation with resuscitation
+CORE RATIONALE: Pulseless ventricular fibrillation is a shockable arrest rhythm needing immediate defibrillation and CPR.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Defibrillation with resuscitation. Pulseless ventricular fibrillation is a shockable arrest rhythm needing immediate defibrillation and CPR. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Elective exercise stress testing does not account for the particular findings or mechanism specified in the stem. The supported response is Defibrillation with resuscitation. Pulseless ventricular fibrillation is a shockable arrest rhythm needing immediate defibrillation and CPR.
+EXPLANATION B: Not the best answer in this clinical context. Oral iron supplementation does not account for the particular findings or mechanism specified in the stem. The supported response is Defibrillation with resuscitation. Pulseless ventricular fibrillation is a shockable arrest rhythm needing immediate defibrillation and CPR.
+EXPLANATION C: This is the best answer. Pulseless ventricular fibrillation is a shockable arrest rhythm needing immediate defibrillation and CPR. The stem is asking about the specific relationship represented by Defibrillation with resuscitation; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer in this clinical context. Chest physiotherapy alone does not account for the particular findings or mechanism specified in the stem. The supported response is Defibrillation with resuscitation. Pulseless ventricular fibrillation is a shockable arrest rhythm needing immediate defibrillation and CPR.
+===== QUESTION 11 END =====
+
+===== QUESTION 12 START =====
+ID: M3-Q12
+STEM: A patient has chronically thickened ventricular walls and impaired ventricular filling. Which functional abnormality may dominate?
+OPTION A: Increased capillary surfactant
+OPTION B: Isolated pulmonary infection
+OPTION C: Improved compliance
+OPTION D: Diastolic dysfunction
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Diastolic dysfunction
+CORE RATIONALE: Stiff ventricular walls reduce diastolic relaxation and filling.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Diastolic dysfunction. Stiff ventricular walls reduce diastolic relaxation and filling. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Increased capillary surfactant does not account for the particular findings or mechanism specified in the stem. The supported response is Diastolic dysfunction. Stiff ventricular walls reduce diastolic relaxation and filling.
+EXPLANATION B: Not the best answer in this clinical context. Isolated pulmonary infection does not account for the particular findings or mechanism specified in the stem. The supported response is Diastolic dysfunction. Stiff ventricular walls reduce diastolic relaxation and filling.
+EXPLANATION C: Not the best answer in this clinical context. Improved compliance does not account for the particular findings or mechanism specified in the stem. The supported response is Diastolic dysfunction. Stiff ventricular walls reduce diastolic relaxation and filling.
+EXPLANATION D: This is the best answer. Stiff ventricular walls reduce diastolic relaxation and filling. The stem is asking about the specific relationship represented by Diastolic dysfunction; the other options refer to separate mechanisms or conditions.
+===== QUESTION 12 END =====
+
+===== QUESTION 13 START =====
+ID: M3-Q13
+STEM: A patient has breathlessness and pulmonary crackles from elevated left-sided filling pressures. Which problem is most likely?
+OPTION A: Left-sided heart failure
+OPTION B: Isolated right-sided venous insufficiency
+OPTION C: Superficial varicosity only
+OPTION D: Uncomplicated rhinitis
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Left-sided heart failure
+CORE RATIONALE: Left ventricular failure raises pulmonary venous pressure and produces pulmonary congestion.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Left-sided heart failure. Left ventricular failure raises pulmonary venous pressure and produces pulmonary congestion. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Left ventricular failure raises pulmonary venous pressure and produces pulmonary congestion. The stem is asking about the specific relationship represented by Left-sided heart failure; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer in this clinical context. Isolated right-sided venous insufficiency does not account for the particular findings or mechanism specified in the stem. The supported response is Left-sided heart failure. Left ventricular failure raises pulmonary venous pressure and produces pulmonary congestion.
+EXPLANATION C: Not the best answer. A varicosity is an abnormally enlarged superficial vein. The case instead points to Left-sided heart failure; compare the distinctive clinical clues and mechanism in the stem. Left ventricular failure raises pulmonary venous pressure and produces pulmonary congestion.
+EXPLANATION D: Not the best answer. Rhinitis is inflammation of the nasal mucosa. The case instead points to Left-sided heart failure; compare the distinctive clinical clues and mechanism in the stem. Left ventricular failure raises pulmonary venous pressure and produces pulmonary congestion.
+===== QUESTION 13 END =====
+
+===== QUESTION 14 START =====
+ID: M3-Q14
+STEM: An individual with chronic heart failure develops orthopnea. What does orthopnea describe?
+OPTION A: Unilateral skin itching
+OPTION B: Bleeding into a joint
+OPTION C: Breathlessness that worsens when lying flat
+OPTION D: Painful urination
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Breathlessness that worsens when lying flat
+CORE RATIONALE: Supine redistribution of fluid can worsen pulmonary congestion and dyspnea.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Breathlessness that worsens when lying flat. Supine redistribution of fluid can worsen pulmonary congestion and dyspnea. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Unilateral skin itching does not account for the particular findings or mechanism specified in the stem. The supported response is Breathlessness that worsens when lying flat. Supine redistribution of fluid can worsen pulmonary congestion and dyspnea.
+EXPLANATION B: Not the best answer in this clinical context. Bleeding into a joint does not account for the particular findings or mechanism specified in the stem. The supported response is Breathlessness that worsens when lying flat. Supine redistribution of fluid can worsen pulmonary congestion and dyspnea.
+EXPLANATION C: This is the best answer. Supine redistribution of fluid can worsen pulmonary congestion and dyspnea. The stem is asking about the specific relationship represented by Breathlessness that worsens when lying flat; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer in this clinical context. Painful urination does not account for the particular findings or mechanism specified in the stem. The supported response is Breathlessness that worsens when lying flat. Supine redistribution of fluid can worsen pulmonary congestion and dyspnea.
+===== QUESTION 14 END =====
+
+===== QUESTION 15 START =====
+ID: M3-Q15
+STEM: A patient has dependent edema, distended neck veins and abdominal fluid accumulation. Which condition best explains the pattern?
+OPTION A: Tay-Sachs disease
+OPTION B: Acute sinusitis
+OPTION C: Right-sided heart failure
+OPTION D: Isolated left-sided ischemia without congestion
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Right-sided heart failure
+CORE RATIONALE: Systemic venous congestion is characteristic of right ventricular failure.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Right-sided heart failure. Systemic venous congestion is characteristic of right ventricular failure. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Tay-Sachs disease does not account for the particular findings or mechanism specified in the stem. The supported response is Right-sided heart failure. Systemic venous congestion is characteristic of right ventricular failure.
+EXPLANATION B: Not the best answer. Sinusitis is inflammation of the paranasal sinuses. The case instead points to Right-sided heart failure; compare the distinctive clinical clues and mechanism in the stem. Systemic venous congestion is characteristic of right ventricular failure.
+EXPLANATION C: This is the best answer. Systemic venous congestion is characteristic of right ventricular failure. The stem is asking about the specific relationship represented by Right-sided heart failure; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer in this clinical context. Isolated left-sided ischemia without congestion does not account for the particular findings or mechanism specified in the stem. The supported response is Right-sided heart failure. Systemic venous congestion is characteristic of right ventricular failure.
+===== QUESTION 15 END =====
+
+===== QUESTION 16 START =====
+ID: M3-Q16
+STEM: A person with chronic pulmonary hypertension develops right ventricular failure. What is this consequence called?
+OPTION A: Mitral stenosis due to infection
+OPTION B: Cor pulmonale
+OPTION C: Cardiac tamponade solely from anemia
+OPTION D: Stable angina
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Cor pulmonale
+CORE RATIONALE: Cor pulmonale describes RV alterations/failure attributable to pulmonary disease or pulmonary vascular pathology.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Cor pulmonale. Cor pulmonale describes RV alterations/failure attributable to pulmonary disease or pulmonary vascular pathology. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Mitral stenosis due to infection does not account for the particular findings or mechanism specified in the stem. The supported response is Cor pulmonale. Cor pulmonale describes RV alterations/failure attributable to pulmonary disease or pulmonary vascular pathology.
+EXPLANATION B: This is the best answer. Cor pulmonale describes RV alterations/failure attributable to pulmonary disease or pulmonary vascular pathology. The stem is asking about the specific relationship represented by Cor pulmonale; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer. Anemia means reduced red-cell mass or hemoglobin and can impair oxygen delivery. The case instead points to Cor pulmonale; compare the distinctive clinical clues and mechanism in the stem. Cor pulmonale describes RV alterations/failure attributable to pulmonary disease or pulmonary vascular pathology.
+EXPLANATION D: Not the best answer. Stable angina is transient myocardial ischemia predictably triggered by demand. The case instead points to Cor pulmonale; compare the distinctive clinical clues and mechanism in the stem. Cor pulmonale describes RV alterations/failure attributable to pulmonary disease or pulmonary vascular pathology.
+===== QUESTION 16 END =====
+
+===== QUESTION 17 START =====
+ID: M3-Q17
+STEM: A patient has exertional dyspnea, edema and reduced pumping performance. Which measure directly captures volume ejected relative to end-diastolic volume?
+OPTION A: Ejection fraction
+OPTION B: INR
+OPTION C: Mean corpuscular volume
+OPTION D: FEV1/FVC ratio
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Ejection fraction
+CORE RATIONALE: Ejection fraction measures ventricular systolic pumping proportion; the alternatives describe blood cells, coagulation or airflow.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Ejection fraction. Ejection fraction measures ventricular systolic pumping proportion; the alternatives describe blood cells, coagulation or airflow. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Ejection fraction measures ventricular systolic pumping proportion; the alternatives describe blood cells, coagulation or airflow. The stem is asking about the specific relationship represented by Ejection fraction; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer in this clinical context. INR does not account for the particular findings or mechanism specified in the stem. The supported response is Ejection fraction. Ejection fraction measures ventricular systolic pumping proportion; the alternatives describe blood cells, coagulation or airflow.
+EXPLANATION C: Not the best answer in this clinical context. Mean corpuscular volume does not account for the particular findings or mechanism specified in the stem. The supported response is Ejection fraction. Ejection fraction measures ventricular systolic pumping proportion; the alternatives describe blood cells, coagulation or airflow.
+EXPLANATION D: Not the best answer in this clinical context. FEV1/FVC ratio does not account for the particular findings or mechanism specified in the stem. The supported response is Ejection fraction. Ejection fraction measures ventricular systolic pumping proportion; the alternatives describe blood cells, coagulation or airflow.
+===== QUESTION 17 END =====
+
+===== QUESTION 18 START =====
+ID: M3-Q18
+STEM: An abnormal dilated weak ventricular muscle leads to reduced pumping ability. Which diagnosis fits?
+OPTION A: Acute epiglottitis
+OPTION B: Hypertrophic cardiomyopathy with obligatory normal size
+OPTION C: DVT
+OPTION D: Dilated cardiomyopathy
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Dilated cardiomyopathy
+CORE RATIONALE: Dilated cardiomyopathy causes chamber enlargement and systolic dysfunction, unlike airway disease or venous thrombosis.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Dilated cardiomyopathy. Dilated cardiomyopathy causes chamber enlargement and systolic dysfunction, unlike airway disease or venous thrombosis. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Acute epiglottitis does not account for the particular findings or mechanism specified in the stem. The supported response is Dilated cardiomyopathy. Dilated cardiomyopathy causes chamber enlargement and systolic dysfunction, unlike airway disease or venous thrombosis.
+EXPLANATION B: Not the best answer. IgA supports mucosal immune defense; it is not a myocardial injury marker. The case instead points to Dilated cardiomyopathy; compare the distinctive clinical clues and mechanism in the stem. Dilated cardiomyopathy causes chamber enlargement and systolic dysfunction, unlike airway disease or venous thrombosis.
+EXPLANATION C: Not the best answer in this clinical context. DVT does not account for the particular findings or mechanism specified in the stem. The supported response is Dilated cardiomyopathy. Dilated cardiomyopathy causes chamber enlargement and systolic dysfunction, unlike airway disease or venous thrombosis.
+EXPLANATION D: This is the best answer. Dilated cardiomyopathy causes chamber enlargement and systolic dysfunction, unlike airway disease or venous thrombosis. The stem is asking about the specific relationship represented by Dilated cardiomyopathy; the other options refer to separate mechanisms or conditions.
+===== QUESTION 18 END =====
+
+===== QUESTION 19 START =====
+ID: M3-Q19
+STEM: A young athlete has exertional syncope and marked asymmetric septal thickening. Which disorder is a concern?
+OPTION A: Hypertrophic cardiomyopathy
+OPTION B: Isolated varicose veins
+OPTION C: Simple iron deficiency
+OPTION D: Acute bronchitis
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Hypertrophic cardiomyopathy
+CORE RATIONALE: Hypertrophic cardiomyopathy can cause outflow obstruction and dangerous arrhythmias.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Hypertrophic cardiomyopathy. Hypertrophic cardiomyopathy can cause outflow obstruction and dangerous arrhythmias. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Hypertrophic cardiomyopathy can cause outflow obstruction and dangerous arrhythmias. The stem is asking about the specific relationship represented by Hypertrophic cardiomyopathy; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer. A varicosity is an abnormally enlarged superficial vein. The case instead points to Hypertrophic cardiomyopathy; compare the distinctive clinical clues and mechanism in the stem. Hypertrophic cardiomyopathy can cause outflow obstruction and dangerous arrhythmias.
+EXPLANATION C: Not the best answer in this clinical context. Simple iron deficiency does not account for the particular findings or mechanism specified in the stem. The supported response is Hypertrophic cardiomyopathy. Hypertrophic cardiomyopathy can cause outflow obstruction and dangerous arrhythmias.
+EXPLANATION D: Not the best answer. Bronchitis is inflammation of bronchi, often presenting with cough. The case instead points to Hypertrophic cardiomyopathy; compare the distinctive clinical clues and mechanism in the stem. Hypertrophic cardiomyopathy can cause outflow obstruction and dangerous arrhythmias.
+===== QUESTION 19 END =====
+
+===== QUESTION 20 START =====
+ID: M3-Q20
+STEM: A patient with a history of intravenous drug use has fever and a newly detected heart murmur. Which condition needs assessment?
+OPTION A: Infective endocarditis
+OPTION B: Uncomplicated allergic rhinitis
+OPTION C: Simple atelectasis alone
+OPTION D: Chronic venous varicosity
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Infective endocarditis
+CORE RATIONALE: Infective endocarditis may damage valves and cause fever and changing murmurs.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Infective endocarditis. Infective endocarditis may damage valves and cause fever and changing murmurs. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Infective endocarditis may damage valves and cause fever and changing murmurs. The stem is asking about the specific relationship represented by Infective endocarditis; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer. Rhinitis is inflammation of the nasal mucosa. The case instead points to Infective endocarditis; compare the distinctive clinical clues and mechanism in the stem. Infective endocarditis may damage valves and cause fever and changing murmurs.
+EXPLANATION C: Not the best answer in this clinical context. Simple atelectasis alone does not account for the particular findings or mechanism specified in the stem. The supported response is Infective endocarditis. Infective endocarditis may damage valves and cause fever and changing murmurs.
+EXPLANATION D: Not the best answer. A varicosity is an abnormally enlarged superficial vein. The case instead points to Infective endocarditis; compare the distinctive clinical clues and mechanism in the stem. Infective endocarditis may damage valves and cause fever and changing murmurs.
+===== QUESTION 20 END =====
+
+===== QUESTION 21 START =====
+ID: M3-Q21
+STEM: A nurse emphasizes oral hygiene and avoiding injection drug use to reduce risk of which cardiac infection?
+OPTION A: Pleural effusion
+OPTION B: Infective endocarditis
+OPTION C: Viral pharyngitis
+OPTION D: Emphysema
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Infective endocarditis
+CORE RATIONALE: Bacteremia from relevant sources can seed susceptible endocardium; these measures may reduce risk.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Infective endocarditis. Bacteremia from relevant sources can seed susceptible endocardium; these measures may reduce risk. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. An effusion is excess fluid in a body cavity, such as the pleural space. The case instead points to Infective endocarditis; compare the distinctive clinical clues and mechanism in the stem. Bacteremia from relevant sources can seed susceptible endocardium; these measures may reduce risk.
+EXPLANATION B: This is the best answer. Bacteremia from relevant sources can seed susceptible endocardium; these measures may reduce risk. The stem is asking about the specific relationship represented by Infective endocarditis; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer. Pharyngitis is inflammation of the pharynx. The case instead points to Infective endocarditis; compare the distinctive clinical clues and mechanism in the stem. Bacteremia from relevant sources can seed susceptible endocardium; these measures may reduce risk.
+EXPLANATION D: Not the best answer. Emphysema destroys alveolar walls and elastic recoil, causing air trapping. The case instead points to Infective endocarditis; compare the distinctive clinical clues and mechanism in the stem. Bacteremia from relevant sources can seed susceptible endocardium; these measures may reduce risk.
+===== QUESTION 21 END =====
+
+===== QUESTION 22 START =====
+ID: M3-Q22
+STEM: A patient sits immobile after orthopedic surgery. Which component of Virchow's triad is accentuated?
+OPTION A: T-cell depletion
+OPTION B: Increased alveolar elasticity
+OPTION C: Venous stasis
+OPTION D: Excess surfactant
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Venous stasis
+CORE RATIONALE: Inactivity promotes sluggish venous flow; Virchow's triad also includes endothelial injury and hypercoagulability.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Venous stasis. Inactivity promotes sluggish venous flow; Virchow's triad also includes endothelial injury and hypercoagulability. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. T-cell depletion does not account for the particular findings or mechanism specified in the stem. The supported response is Venous stasis. Inactivity promotes sluggish venous flow; Virchow's triad also includes endothelial injury and hypercoagulability.
+EXPLANATION B: Not the best answer in this clinical context. Increased alveolar elasticity does not account for the particular findings or mechanism specified in the stem. The supported response is Venous stasis. Inactivity promotes sluggish venous flow; Virchow's triad also includes endothelial injury and hypercoagulability.
+EXPLANATION C: This is the best answer. Inactivity promotes sluggish venous flow; Virchow's triad also includes endothelial injury and hypercoagulability. The stem is asking about the specific relationship represented by Venous stasis; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer in this clinical context. Excess surfactant does not account for the particular findings or mechanism specified in the stem. The supported response is Venous stasis. Inactivity promotes sluggish venous flow; Virchow's triad also includes endothelial injury and hypercoagulability.
+===== QUESTION 22 END =====
+
+===== QUESTION 23 START =====
+ID: M3-Q23
+STEM: A patient develops one swollen tender calf after prolonged immobilization. Which diagnosis needs consideration?
+OPTION A: Stable angina
+OPTION B: Tonsillitis
+OPTION C: Deep vein thrombosis
+OPTION D: Chronic emphysema
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Deep vein thrombosis
+CORE RATIONALE: Unilateral leg swelling and risk factors warrant evaluation for DVT.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Deep vein thrombosis. Unilateral leg swelling and risk factors warrant evaluation for DVT. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Stable angina is transient myocardial ischemia predictably triggered by demand. The case instead points to Deep vein thrombosis; compare the distinctive clinical clues and mechanism in the stem. Unilateral leg swelling and risk factors warrant evaluation for DVT.
+EXPLANATION B: Not the best answer. Tonsillitis is inflammation of the tonsils. The case instead points to Deep vein thrombosis; compare the distinctive clinical clues and mechanism in the stem. Unilateral leg swelling and risk factors warrant evaluation for DVT.
+EXPLANATION C: This is the best answer. Unilateral leg swelling and risk factors warrant evaluation for DVT. The stem is asking about the specific relationship represented by Deep vein thrombosis; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer. Emphysema destroys alveolar walls and elastic recoil, causing air trapping. The case instead points to Deep vein thrombosis; compare the distinctive clinical clues and mechanism in the stem. Unilateral leg swelling and risk factors warrant evaluation for DVT.
+===== QUESTION 23 END =====
+
+===== QUESTION 24 START =====
+ID: M3-Q24
+STEM: A hospitalized postoperative patient develops sudden pleuritic chest pain and breathlessness after calf swelling. Which complication is concerning?
+OPTION A: Isolated coronary plaque without thrombosis
+OPTION B: Simple otitis externa
+OPTION C: Pulmonary embolism
+OPTION D: Uncomplicated rhinitis
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Pulmonary embolism
+CORE RATIONALE: An embolus from leg veins may lodge in pulmonary arteries and cause abrupt dyspnea.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Pulmonary embolism. An embolus from leg veins may lodge in pulmonary arteries and cause abrupt dyspnea. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Isolated coronary plaque without thrombosis does not account for the particular findings or mechanism specified in the stem. The supported response is Pulmonary embolism. An embolus from leg veins may lodge in pulmonary arteries and cause abrupt dyspnea.
+EXPLANATION B: Not the best answer in this clinical context. Simple otitis externa does not account for the particular findings or mechanism specified in the stem. The supported response is Pulmonary embolism. An embolus from leg veins may lodge in pulmonary arteries and cause abrupt dyspnea.
+EXPLANATION C: This is the best answer. An embolus from leg veins may lodge in pulmonary arteries and cause abrupt dyspnea. The stem is asking about the specific relationship represented by Pulmonary embolism; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer. Rhinitis is inflammation of the nasal mucosa. The case instead points to Pulmonary embolism; compare the distinctive clinical clues and mechanism in the stem. An embolus from leg veins may lodge in pulmonary arteries and cause abrupt dyspnea.
+===== QUESTION 24 END =====
+
+===== QUESTION 25 START =====
+ID: M3-Q25
+STEM: A patient has ropy enlarged superficial veins that worsen with prolonged standing. What is the condition?
+OPTION A: Pleural effusion
+OPTION B: Varicose veins
+OPTION C: Arterial aneurysm
+OPTION D: Coronary infarction
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Varicose veins
+CORE RATIONALE: Varicosities are dilated superficial veins linked to venous valve dysfunction and pressure.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Varicose veins. Varicosities are dilated superficial veins linked to venous valve dysfunction and pressure. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. An effusion is excess fluid in a body cavity, such as the pleural space. The case instead points to Varicose veins; compare the distinctive clinical clues and mechanism in the stem. Varicosities are dilated superficial veins linked to venous valve dysfunction and pressure.
+EXPLANATION B: This is the best answer. Varicosities are dilated superficial veins linked to venous valve dysfunction and pressure. The stem is asking about the specific relationship represented by Varicose veins; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer. An aneurysm is a focal abnormal vessel dilation, generally involving an artery. The case instead points to Varicose veins; compare the distinctive clinical clues and mechanism in the stem. Varicosities are dilated superficial veins linked to venous valve dysfunction and pressure.
+EXPLANATION D: Not the best answer. Infarction is ischemic tissue necrosis caused by disrupted circulation. The case instead points to Varicose veins; compare the distinctive clinical clues and mechanism in the stem. Varicosities are dilated superficial veins linked to venous valve dysfunction and pressure.
+===== QUESTION 25 END =====
+
+===== QUESTION 26 START =====
+ID: M3-Q26
+STEM: A patient with recurrent venous clotting has damage to vessel endothelium. Which triad element does this represent?
+OPTION A: Pulmonary surfactant deficiency
+OPTION B: Endothelial injury
+OPTION C: Low plasma ferritin
+OPTION D: Impaired thymic selection
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Endothelial injury
+CORE RATIONALE: Endothelial injury is one component of Virchow's triad, alongside stasis and hypercoagulability.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Endothelial injury. Endothelial injury is one component of Virchow's triad, alongside stasis and hypercoagulability. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Pulmonary surfactant deficiency does not account for the particular findings or mechanism specified in the stem. The supported response is Endothelial injury. Endothelial injury is one component of Virchow's triad, alongside stasis and hypercoagulability.
+EXPLANATION B: This is the best answer. Endothelial injury is one component of Virchow's triad, alongside stasis and hypercoagulability. The stem is asking about the specific relationship represented by Endothelial injury; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer in this clinical context. Low plasma ferritin does not account for the particular findings or mechanism specified in the stem. The supported response is Endothelial injury. Endothelial injury is one component of Virchow's triad, alongside stasis and hypercoagulability.
+EXPLANATION D: Not the best answer in this clinical context. Impaired thymic selection does not account for the particular findings or mechanism specified in the stem. The supported response is Endothelial injury. Endothelial injury is one component of Virchow's triad, alongside stasis and hypercoagulability.
+===== QUESTION 26 END =====
+
+===== QUESTION 27 START =====
+ID: M3-Q27
+STEM: A patient has sneezing, nasal congestion and clear discharge with acute nasal mucosal inflammation. Which term applies?
+OPTION A: Pleural effusion
+OPTION B: Acute bronchitis
+OPTION C: Pulmonary edema
+OPTION D: Acute rhinitis
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Acute rhinitis
+CORE RATIONALE: Rhinitis involves inflammation of the nasal mucosa, not bronchi or pleural spaces.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Acute rhinitis. Rhinitis involves inflammation of the nasal mucosa, not bronchi or pleural spaces. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. An effusion is excess fluid in a body cavity, such as the pleural space. The case instead points to Acute rhinitis; compare the distinctive clinical clues and mechanism in the stem. Rhinitis involves inflammation of the nasal mucosa, not bronchi or pleural spaces.
+EXPLANATION B: Not the best answer. Bronchitis is inflammation of bronchi, often presenting with cough. The case instead points to Acute rhinitis; compare the distinctive clinical clues and mechanism in the stem. Rhinitis involves inflammation of the nasal mucosa, not bronchi or pleural spaces.
+EXPLANATION C: Not the best answer. Pulmonary edema is excess fluid in lung interstitium/alveoli. The case instead points to Acute rhinitis; compare the distinctive clinical clues and mechanism in the stem. Rhinitis involves inflammation of the nasal mucosa, not bronchi or pleural spaces.
+EXPLANATION D: This is the best answer. Rhinitis involves inflammation of the nasal mucosa, not bronchi or pleural spaces. The stem is asking about the specific relationship represented by Acute rhinitis; the other options refer to separate mechanisms or conditions.
+===== QUESTION 27 END =====
+
+===== QUESTION 28 START =====
+ID: M3-Q28
+STEM: A patient develops painful swallowing and a reddened pharyngeal wall. What is the primary anatomical site?
+OPTION A: Pleural cavity
+OPTION B: Alveoli
+OPTION C: Ventricular myocardium
+OPTION D: Pharynx
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Pharynx
+CORE RATIONALE: Pharyngitis affects the pharynx, whereas bronchitis and pneumonia involve lower respiratory structures.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Pharynx. Pharyngitis affects the pharynx, whereas bronchitis and pneumonia involve lower respiratory structures. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Pleural cavity does not account for the particular findings or mechanism specified in the stem. The supported response is Pharynx. Pharyngitis affects the pharynx, whereas bronchitis and pneumonia involve lower respiratory structures.
+EXPLANATION B: Not the best answer in this clinical context. Alveoli does not account for the particular findings or mechanism specified in the stem. The supported response is Pharynx. Pharyngitis affects the pharynx, whereas bronchitis and pneumonia involve lower respiratory structures.
+EXPLANATION C: Not the best answer in this clinical context. Ventricular myocardium does not account for the particular findings or mechanism specified in the stem. The supported response is Pharynx. Pharyngitis affects the pharynx, whereas bronchitis and pneumonia involve lower respiratory structures.
+EXPLANATION D: This is the best answer. Pharyngitis affects the pharynx, whereas bronchitis and pneumonia involve lower respiratory structures. The stem is asking about the specific relationship represented by Pharynx; the other options refer to separate mechanisms or conditions.
+===== QUESTION 28 END =====
+
+===== QUESTION 29 START =====
+ID: M3-Q29
+STEM: A patient has facial pressure and purulent nasal discharge following an upper respiratory illness. What disorder is considered?
+OPTION A: Pneumothorax
+OPTION B: Hemophilia
+OPTION C: Myocardial infarction
+OPTION D: Acute sinusitis
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Acute sinusitis
+CORE RATIONALE: Sinusitis is inflammation of paranasal sinuses; complications and treatment depend on cause and course.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Acute sinusitis. Sinusitis is inflammation of paranasal sinuses; complications and treatment depend on cause and course. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Pneumothorax is air in the pleural space, potentially reducing breath sounds and collapsing lung. The case instead points to Acute sinusitis; compare the distinctive clinical clues and mechanism in the stem. Sinusitis is inflammation of paranasal sinuses; complications and treatment depend on cause and course.
+EXPLANATION B: Not the best answer. Hemophilia is a coagulation-factor disorder associated with deep tissue or joint bleeding. The case instead points to Acute sinusitis; compare the distinctive clinical clues and mechanism in the stem. Sinusitis is inflammation of paranasal sinuses; complications and treatment depend on cause and course.
+EXPLANATION C: Not the best answer. Infarction is ischemic tissue necrosis caused by disrupted circulation. The case instead points to Acute sinusitis; compare the distinctive clinical clues and mechanism in the stem. Sinusitis is inflammation of paranasal sinuses; complications and treatment depend on cause and course.
+EXPLANATION D: This is the best answer. Sinusitis is inflammation of paranasal sinuses; complications and treatment depend on cause and course. The stem is asking about the specific relationship represented by Acute sinusitis; the other options refer to separate mechanisms or conditions.
+===== QUESTION 29 END =====
+
+===== QUESTION 30 START =====
+ID: M3-Q30
+STEM: A child has swollen painful tonsils with fever and odynophagia. Which condition is present?
+OPTION A: Tonsillitis
+OPTION B: Pulmonary embolism
+OPTION C: Cor pulmonale
+OPTION D: Emphysema
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Tonsillitis
+CORE RATIONALE: Tonsillitis is inflammation of tonsillar tissue, distinct from deeper lung pathology.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Tonsillitis. Tonsillitis is inflammation of tonsillar tissue, distinct from deeper lung pathology. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Tonsillitis is inflammation of tonsillar tissue, distinct from deeper lung pathology. The stem is asking about the specific relationship represented by Tonsillitis; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer in this clinical context. Pulmonary embolism does not account for the particular findings or mechanism specified in the stem. The supported response is Tonsillitis. Tonsillitis is inflammation of tonsillar tissue, distinct from deeper lung pathology.
+EXPLANATION C: Not the best answer. Cor pulmonale is right-heart structural/functional change from pulmonary disease or pulmonary vascular loading. The case instead points to Tonsillitis; compare the distinctive clinical clues and mechanism in the stem. Tonsillitis is inflammation of tonsillar tissue, distinct from deeper lung pathology.
+EXPLANATION D: Not the best answer. Emphysema destroys alveolar walls and elastic recoil, causing air trapping. The case instead points to Tonsillitis; compare the distinctive clinical clues and mechanism in the stem. Tonsillitis is inflammation of tonsillar tissue, distinct from deeper lung pathology.
+===== QUESTION 30 END =====
+
+===== QUESTION 31 START =====
+ID: M3-Q31
+STEM: A child has fever, drooling, muffled voice and difficulty breathing. Which dangerous airway disorder is a concern?
+OPTION A: Stable emphysema
+OPTION B: Chronic iron deficiency
+OPTION C: Varicose veins
+OPTION D: Epiglottitis
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Epiglottitis
+CORE RATIONALE: Epiglottic inflammation can rapidly obstruct the upper airway and requires urgent assessment.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Epiglottitis. Epiglottic inflammation can rapidly obstruct the upper airway and requires urgent assessment. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Emphysema destroys alveolar walls and elastic recoil, causing air trapping. The case instead points to Epiglottitis; compare the distinctive clinical clues and mechanism in the stem. Epiglottic inflammation can rapidly obstruct the upper airway and requires urgent assessment.
+EXPLANATION B: Not the best answer in this clinical context. Chronic iron deficiency does not account for the particular findings or mechanism specified in the stem. The supported response is Epiglottitis. Epiglottic inflammation can rapidly obstruct the upper airway and requires urgent assessment.
+EXPLANATION C: Not the best answer. A varicosity is an abnormally enlarged superficial vein. The case instead points to Epiglottitis; compare the distinctive clinical clues and mechanism in the stem. Epiglottic inflammation can rapidly obstruct the upper airway and requires urgent assessment.
+EXPLANATION D: This is the best answer. Epiglottic inflammation can rapidly obstruct the upper airway and requires urgent assessment. The stem is asking about the specific relationship represented by Epiglottitis; the other options refer to separate mechanisms or conditions.
+===== QUESTION 31 END =====
+
+===== QUESTION 32 START =====
+ID: M3-Q32
+STEM: A patient has cough after a viral URI, with transient bronchial inflammation and no focal consolidation. Which diagnosis fits?
+OPTION A: Pulmonary embolism
+OPTION B: Acute bronchitis
+OPTION C: Pneumothorax
+OPTION D: Acute myocardial infarction
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Acute bronchitis
+CORE RATIONALE: Acute bronchitis involves bronchial inflammation, commonly viral; it differs from alveolar pneumonia.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Acute bronchitis. Acute bronchitis involves bronchial inflammation, commonly viral; it differs from alveolar pneumonia. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Pulmonary embolism does not account for the particular findings or mechanism specified in the stem. The supported response is Acute bronchitis. Acute bronchitis involves bronchial inflammation, commonly viral; it differs from alveolar pneumonia.
+EXPLANATION B: This is the best answer. Acute bronchitis involves bronchial inflammation, commonly viral; it differs from alveolar pneumonia. The stem is asking about the specific relationship represented by Acute bronchitis; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer. Pneumothorax is air in the pleural space, potentially reducing breath sounds and collapsing lung. The case instead points to Acute bronchitis; compare the distinctive clinical clues and mechanism in the stem. Acute bronchitis involves bronchial inflammation, commonly viral; it differs from alveolar pneumonia.
+EXPLANATION D: Not the best answer. Infarction is ischemic tissue necrosis caused by disrupted circulation. The case instead points to Acute bronchitis; compare the distinctive clinical clues and mechanism in the stem. Acute bronchitis involves bronchial inflammation, commonly viral; it differs from alveolar pneumonia.
+===== QUESTION 32 END =====
+
+===== QUESTION 33 START =====
+ID: M3-Q33
+STEM: A patient with acute bronchitis receives an expectorant. What is the intended effect?
+OPTION A: Dissolve coronary plaque
+OPTION B: Replace factor VIII
+OPTION C: Increase platelet aggregation
+OPTION D: Assist clearance of respiratory mucus
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Assist clearance of respiratory mucus
+CORE RATIONALE: Expectorants facilitate mucus clearance; they are not anticoagulants or cardiac drugs.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Assist clearance of respiratory mucus. Expectorants facilitate mucus clearance; they are not anticoagulants or cardiac drugs. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Dissolve coronary plaque does not account for the particular findings or mechanism specified in the stem. The supported response is Assist clearance of respiratory mucus. Expectorants facilitate mucus clearance; they are not anticoagulants or cardiac drugs.
+EXPLANATION B: Not the best answer in this clinical context. Replace factor VIII does not account for the particular findings or mechanism specified in the stem. The supported response is Assist clearance of respiratory mucus. Expectorants facilitate mucus clearance; they are not anticoagulants or cardiac drugs.
+EXPLANATION C: Not the best answer in this clinical context. Increase platelet aggregation does not account for the particular findings or mechanism specified in the stem. The supported response is Assist clearance of respiratory mucus. Expectorants facilitate mucus clearance; they are not anticoagulants or cardiac drugs.
+EXPLANATION D: This is the best answer. Expectorants facilitate mucus clearance; they are not anticoagulants or cardiac drugs. The stem is asking about the specific relationship represented by Assist clearance of respiratory mucus; the other options refer to separate mechanisms or conditions.
+===== QUESTION 33 END =====
+
+===== QUESTION 34 START =====
+ID: M3-Q34
+STEM: A person has fever, productive cough and a focal infiltrate on chest imaging. Which process is most likely?
+OPTION A: Uncomplicated varicose veins
+OPTION B: Simple allergic rhinitis
+OPTION C: Pneumonia
+OPTION D: Stable angina
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Pneumonia
+CORE RATIONALE: Pneumonia involves infection/inflammation of lung parenchyma, often with alveolar filling.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Pneumonia. Pneumonia involves infection/inflammation of lung parenchyma, often with alveolar filling. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. A varicosity is an abnormally enlarged superficial vein. The case instead points to Pneumonia; compare the distinctive clinical clues and mechanism in the stem. Pneumonia involves infection/inflammation of lung parenchyma, often with alveolar filling.
+EXPLANATION B: Not the best answer. Rhinitis is inflammation of the nasal mucosa. The case instead points to Pneumonia; compare the distinctive clinical clues and mechanism in the stem. Pneumonia involves infection/inflammation of lung parenchyma, often with alveolar filling.
+EXPLANATION C: This is the best answer. Pneumonia involves infection/inflammation of lung parenchyma, often with alveolar filling. The stem is asking about the specific relationship represented by Pneumonia; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer. Stable angina is transient myocardial ischemia predictably triggered by demand. The case instead points to Pneumonia; compare the distinctive clinical clues and mechanism in the stem. Pneumonia involves infection/inflammation of lung parenchyma, often with alveolar filling.
+===== QUESTION 34 END =====
+
+===== QUESTION 35 START =====
+ID: M3-Q35
+STEM: A bacterial respiratory culture identifies Streptococcus pneumoniae. Which classification is accurate?
+OPTION A: A bacterium that can cause community-acquired pneumonia
+OPTION B: A fungal cause of oral thrush
+OPTION C: A virus causing herpes vesicles
+OPTION D: A protozoan causing malaria
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: A bacterium that can cause community-acquired pneumonia
+CORE RATIONALE: S. pneumoniae is a bacterial pathogen and a common cause of community-acquired pneumonia.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support A bacterium that can cause community-acquired pneumonia. S. pneumoniae is a bacterial pathogen and a common cause of community-acquired pneumonia. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. S. pneumoniae is a bacterial pathogen and a common cause of community-acquired pneumonia. The stem is asking about the specific relationship represented by A bacterium that can cause community-acquired pneumonia; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer in this clinical context. A fungal cause of oral thrush does not account for the particular findings or mechanism specified in the stem. The supported response is A bacterium that can cause community-acquired pneumonia. S. pneumoniae is a bacterial pathogen and a common cause of community-acquired pneumonia.
+EXPLANATION C: Not the best answer in this clinical context. A virus causing herpes vesicles does not account for the particular findings or mechanism specified in the stem. The supported response is A bacterium that can cause community-acquired pneumonia. S. pneumoniae is a bacterial pathogen and a common cause of community-acquired pneumonia.
+EXPLANATION D: Not the best answer in this clinical context. A protozoan causing malaria does not account for the particular findings or mechanism specified in the stem. The supported response is A bacterium that can cause community-acquired pneumonia. S. pneumoniae is a bacterial pathogen and a common cause of community-acquired pneumonia.
+===== QUESTION 35 END =====
+
+===== QUESTION 36 START =====
+ID: M3-Q36
+STEM: A person with pneumonia has fluid and inflammatory cells filling alveoli. Which physiologic consequence is expected?
+OPTION A: Impaired oxygen diffusion and gas exchange
+OPTION B: Increased myocardial troponin as defining feature
+OPTION C: Improved alveolar ventilation in all regions
+OPTION D: Reduced airway secretions in every case
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Impaired oxygen diffusion and gas exchange
+CORE RATIONALE: Alveolar exudate compromises gas exchange and can cause hypoxemia.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Impaired oxygen diffusion and gas exchange. Alveolar exudate compromises gas exchange and can cause hypoxemia. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Alveolar exudate compromises gas exchange and can cause hypoxemia. The stem is asking about the specific relationship represented by Impaired oxygen diffusion and gas exchange; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer. Cardiac troponin is a marker of myocardial cell injury rather than a marker of infection or immune antibodies. The case instead points to Impaired oxygen diffusion and gas exchange; compare the distinctive clinical clues and mechanism in the stem. Alveolar exudate compromises gas exchange and can cause hypoxemia.
+EXPLANATION C: Not the best answer in this clinical context. Improved alveolar ventilation in all regions does not account for the particular findings or mechanism specified in the stem. The supported response is Impaired oxygen diffusion and gas exchange. Alveolar exudate compromises gas exchange and can cause hypoxemia.
+EXPLANATION D: Not the best answer in this clinical context. Reduced airway secretions in every case does not account for the particular findings or mechanism specified in the stem. The supported response is Impaired oxygen diffusion and gas exchange. Alveolar exudate compromises gas exchange and can cause hypoxemia.
+===== QUESTION 36 END =====
+
+===== QUESTION 37 START =====
+ID: M3-Q37
+STEM: A patient has weeks of cough, night sweats, weight loss and possible airborne exposure. Which infection is important to exclude?
+OPTION A: Tuberculosis
+OPTION B: Varicella alone
+OPTION C: Candidal thrush only
+OPTION D: Acute uncomplicated rhinitis
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Tuberculosis
+CORE RATIONALE: Pulmonary tuberculosis often causes prolonged cough and systemic symptoms and spreads through airborne particles.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Tuberculosis. Pulmonary tuberculosis often causes prolonged cough and systemic symptoms and spreads through airborne particles. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Pulmonary tuberculosis often causes prolonged cough and systemic symptoms and spreads through airborne particles. The stem is asking about the specific relationship represented by Tuberculosis; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer in this clinical context. Varicella alone does not account for the particular findings or mechanism specified in the stem. The supported response is Tuberculosis. Pulmonary tuberculosis often causes prolonged cough and systemic symptoms and spreads through airborne particles.
+EXPLANATION C: Not the best answer in this clinical context. Candidal thrush only does not account for the particular findings or mechanism specified in the stem. The supported response is Tuberculosis. Pulmonary tuberculosis often causes prolonged cough and systemic symptoms and spreads through airborne particles.
+EXPLANATION D: Not the best answer. Rhinitis is inflammation of the nasal mucosa. The case instead points to Tuberculosis; compare the distinctive clinical clues and mechanism in the stem. Pulmonary tuberculosis often causes prolonged cough and systemic symptoms and spreads through airborne particles.
+===== QUESTION 37 END =====
+
+===== QUESTION 38 START =====
+ID: M3-Q38
+STEM: An adolescent has episodic wheezing after allergen exposure and improves markedly after a bronchodilator. Which characteristic does this support?
+OPTION A: Reversible airway obstruction
+OPTION B: Pleural fluid as sole mechanism
+OPTION C: Cardiac necrosis
+OPTION D: Permanent loss of all bronchi
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Reversible airway obstruction
+CORE RATIONALE: Asthma commonly produces variable, at least partly reversible airflow obstruction.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Reversible airway obstruction. Asthma commonly produces variable, at least partly reversible airflow obstruction. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Asthma commonly produces variable, at least partly reversible airflow obstruction. The stem is asking about the specific relationship represented by Reversible airway obstruction; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer in this clinical context. Pleural fluid as sole mechanism does not account for the particular findings or mechanism specified in the stem. The supported response is Reversible airway obstruction. Asthma commonly produces variable, at least partly reversible airflow obstruction.
+EXPLANATION C: Not the best answer. Necrosis is tissue or cell death with membrane damage and often inflammation. The case instead points to Reversible airway obstruction; compare the distinctive clinical clues and mechanism in the stem. Asthma commonly produces variable, at least partly reversible airflow obstruction.
+EXPLANATION D: Not the best answer in this clinical context. Permanent loss of all bronchi does not account for the particular findings or mechanism specified in the stem. The supported response is Reversible airway obstruction. Asthma commonly produces variable, at least partly reversible airflow obstruction.
+===== QUESTION 38 END =====
+
+===== QUESTION 39 START =====
+ID: M3-Q39
+STEM: A patient has asthma and an acute exacerbation. Which process narrows the airways?
+OPTION A: Loss of left ventricular contractility alone
+OPTION B: Platelet depletion
+OPTION C: Venous valve insufficiency
+OPTION D: Bronchoconstriction with airway inflammation
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Bronchoconstriction with airway inflammation
+CORE RATIONALE: Asthma involves smooth muscle contraction, inflammation and sometimes excess mucus.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Bronchoconstriction with airway inflammation. Asthma involves smooth muscle contraction, inflammation and sometimes excess mucus. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Loss of left ventricular contractility alone does not account for the particular findings or mechanism specified in the stem. The supported response is Bronchoconstriction with airway inflammation. Asthma involves smooth muscle contraction, inflammation and sometimes excess mucus.
+EXPLANATION B: Not the best answer in this clinical context. Platelet depletion does not account for the particular findings or mechanism specified in the stem. The supported response is Bronchoconstriction with airway inflammation. Asthma involves smooth muscle contraction, inflammation and sometimes excess mucus.
+EXPLANATION C: Not the best answer in this clinical context. Venous valve insufficiency does not account for the particular findings or mechanism specified in the stem. The supported response is Bronchoconstriction with airway inflammation. Asthma involves smooth muscle contraction, inflammation and sometimes excess mucus.
+EXPLANATION D: This is the best answer. Asthma involves smooth muscle contraction, inflammation and sometimes excess mucus. The stem is asking about the specific relationship represented by Bronchoconstriction with airway inflammation; the other options refer to separate mechanisms or conditions.
+===== QUESTION 39 END =====
+
+===== QUESTION 40 START =====
+ID: M3-Q40
+STEM: A long-term smoker has persistent airflow limitation with chronic respiratory symptoms. Which diagnosis is likely?
+OPTION A: Chronic obstructive pulmonary disease
+OPTION B: Hemophilia B
+OPTION C: Hodgkin lymphoma
+OPTION D: Uncomplicated acute rhinitis
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Chronic obstructive pulmonary disease
+CORE RATIONALE: COPD produces persistent airflow obstruction, often associated with smoking exposure.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Chronic obstructive pulmonary disease. COPD produces persistent airflow obstruction, often associated with smoking exposure. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. COPD produces persistent airflow obstruction, often associated with smoking exposure. The stem is asking about the specific relationship represented by Chronic obstructive pulmonary disease; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer. Hemophilia is a coagulation-factor disorder associated with deep tissue or joint bleeding. The case instead points to Chronic obstructive pulmonary disease; compare the distinctive clinical clues and mechanism in the stem. COPD produces persistent airflow obstruction, often associated with smoking exposure.
+EXPLANATION C: Not the best answer. Lymphoma is a malignancy of lymphoid cells, frequently involving lymph nodes or other lymphoid tissues. The case instead points to Chronic obstructive pulmonary disease; compare the distinctive clinical clues and mechanism in the stem. COPD produces persistent airflow obstruction, often associated with smoking exposure.
+EXPLANATION D: Not the best answer. Rhinitis is inflammation of the nasal mucosa. The case instead points to Chronic obstructive pulmonary disease; compare the distinctive clinical clues and mechanism in the stem. COPD produces persistent airflow obstruction, often associated with smoking exposure.
+===== QUESTION 40 END =====
+
+===== QUESTION 41 START =====
+ID: M3-Q41
+STEM: A patient with emphysema experiences air trapping. What structural change contributes?
+OPTION A: Destruction of alveolar walls and elastic recoil
+OPTION B: Increased capillary albumin
+OPTION C: Thickened heart valves alone
+OPTION D: Platelet destruction
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Destruction of alveolar walls and elastic recoil
+CORE RATIONALE: Emphysema destroys alveolar septa, reducing elastic recoil and promoting air trapping.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Destruction of alveolar walls and elastic recoil. Emphysema destroys alveolar septa, reducing elastic recoil and promoting air trapping. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Emphysema destroys alveolar septa, reducing elastic recoil and promoting air trapping. The stem is asking about the specific relationship represented by Destruction of alveolar walls and elastic recoil; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer. Albumin is a major contributor to plasma oncotic pressure. The case instead points to Destruction of alveolar walls and elastic recoil; compare the distinctive clinical clues and mechanism in the stem. Emphysema destroys alveolar septa, reducing elastic recoil and promoting air trapping.
+EXPLANATION C: Not the best answer in this clinical context. Thickened heart valves alone does not account for the particular findings or mechanism specified in the stem. The supported response is Destruction of alveolar walls and elastic recoil. Emphysema destroys alveolar septa, reducing elastic recoil and promoting air trapping.
+EXPLANATION D: Not the best answer in this clinical context. Platelet destruction does not account for the particular findings or mechanism specified in the stem. The supported response is Destruction of alveolar walls and elastic recoil. Emphysema destroys alveolar septa, reducing elastic recoil and promoting air trapping.
+===== QUESTION 41 END =====
+
+===== QUESTION 42 START =====
+ID: M3-Q42
+STEM: A clinician interprets spirometry in suspected COPD. Which result supports persistent obstruction?
+OPTION A: Increased platelet count alone
+OPTION B: Increased hemoglobin saturation alone
+OPTION C: Reduced post-bronchodilator FEV1/FVC ratio
+OPTION D: Elevated PT/INR alone
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Reduced post-bronchodilator FEV1/FVC ratio
+CORE RATIONALE: FEV1/FVC compares forced expiration in first second with capacity; a persistently low ratio supports airflow obstruction.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Reduced post-bronchodilator FEV1/FVC ratio. FEV1/FVC compares forced expiration in first second with capacity; a persistently low ratio supports airflow obstruction. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Increased platelet count alone does not account for the particular findings or mechanism specified in the stem. The supported response is Reduced post-bronchodilator FEV1/FVC ratio. FEV1/FVC compares forced expiration in first second with capacity; a persistently low ratio supports airflow obstruction.
+EXPLANATION B: Not the best answer. Hemoglobin carries oxygen in red blood cells. The case instead points to Reduced post-bronchodilator FEV1/FVC ratio; compare the distinctive clinical clues and mechanism in the stem. FEV1/FVC compares forced expiration in first second with capacity; a persistently low ratio supports airflow obstruction.
+EXPLANATION C: This is the best answer. FEV1/FVC compares forced expiration in first second with capacity; a persistently low ratio supports airflow obstruction. The stem is asking about the specific relationship represented by Reduced post-bronchodilator FEV1/FVC ratio; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer in this clinical context. Elevated PT/INR alone does not account for the particular findings or mechanism specified in the stem. The supported response is Reduced post-bronchodilator FEV1/FVC ratio. FEV1/FVC compares forced expiration in first second with capacity; a persistently low ratio supports airflow obstruction.
+===== QUESTION 42 END =====
+
+===== QUESTION 43 START =====
+ID: M3-Q43
+STEM: A patient suddenly develops unilateral pleuritic pain and reduced breath sounds after a spontaneous lung collapse. Which disorder is likely?
+OPTION A: Pneumothorax
+OPTION B: Pleural effusion from chronic heart failure
+OPTION C: Tonsillitis
+OPTION D: Atherosclerosis
+CORRECT ANSWER: A
+CORRECT ANSWER TEXT: Pneumothorax
+CORE RATIONALE: Air in the pleural space can collapse lung and reduce breath sounds on that side.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Pneumothorax. Air in the pleural space can collapse lung and reduce breath sounds on that side. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: This is the best answer. Air in the pleural space can collapse lung and reduce breath sounds on that side. The stem is asking about the specific relationship represented by Pneumothorax; the other options refer to separate mechanisms or conditions.
+EXPLANATION B: Not the best answer. An effusion is excess fluid in a body cavity, such as the pleural space. The case instead points to Pneumothorax; compare the distinctive clinical clues and mechanism in the stem. Air in the pleural space can collapse lung and reduce breath sounds on that side.
+EXPLANATION C: Not the best answer. Tonsillitis is inflammation of the tonsils. The case instead points to Pneumothorax; compare the distinctive clinical clues and mechanism in the stem. Air in the pleural space can collapse lung and reduce breath sounds on that side.
+EXPLANATION D: Not the best answer. Atherosclerosis is lipid-rich inflammatory plaque formation in the arterial wall. The case instead points to Pneumothorax; compare the distinctive clinical clues and mechanism in the stem. Air in the pleural space can collapse lung and reduce breath sounds on that side.
+===== QUESTION 43 END =====
+
+===== QUESTION 44 START =====
+ID: M3-Q44
+STEM: A large pneumothorax causes severe hypotension and mediastinal shift. Which complication is suspected?
+OPTION A: Simple rhinitis
+OPTION B: Tension pneumothorax
+OPTION C: Chronic anemia
+OPTION D: Stable angina
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Tension pneumothorax
+CORE RATIONALE: Tension physiology impedes venous return and is a life-threatening emergency.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Tension pneumothorax. Tension physiology impedes venous return and is a life-threatening emergency. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Rhinitis is inflammation of the nasal mucosa. The case instead points to Tension pneumothorax; compare the distinctive clinical clues and mechanism in the stem. Tension physiology impedes venous return and is a life-threatening emergency.
+EXPLANATION B: This is the best answer. Tension physiology impedes venous return and is a life-threatening emergency. The stem is asking about the specific relationship represented by Tension pneumothorax; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer. Anemia means reduced red-cell mass or hemoglobin and can impair oxygen delivery. The case instead points to Tension pneumothorax; compare the distinctive clinical clues and mechanism in the stem. Tension physiology impedes venous return and is a life-threatening emergency.
+EXPLANATION D: Not the best answer. Stable angina is transient myocardial ischemia predictably triggered by demand. The case instead points to Tension pneumothorax; compare the distinctive clinical clues and mechanism in the stem. Tension physiology impedes venous return and is a life-threatening emergency.
+===== QUESTION 44 END =====
+
+===== QUESTION 45 START =====
+ID: M3-Q45
+STEM: A patient has fluid, rather than air, accumulating between visceral and parietal pleura. Which finding is present?
+OPTION A: Bronchospasm
+OPTION B: Infarction
+OPTION C: Pneumothorax
+OPTION D: Pleural effusion
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Pleural effusion
+CORE RATIONALE: Pleural effusion is fluid accumulation in the pleural space; pneumothorax contains air.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Pleural effusion. Pleural effusion is fluid accumulation in the pleural space; pneumothorax contains air. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Bronchospasm does not account for the particular findings or mechanism specified in the stem. The supported response is Pleural effusion. Pleural effusion is fluid accumulation in the pleural space; pneumothorax contains air.
+EXPLANATION B: Not the best answer. Infarction is ischemic tissue necrosis caused by disrupted circulation. The case instead points to Pleural effusion; compare the distinctive clinical clues and mechanism in the stem. Pleural effusion is fluid accumulation in the pleural space; pneumothorax contains air.
+EXPLANATION C: Not the best answer. Pneumothorax is air in the pleural space, potentially reducing breath sounds and collapsing lung. The case instead points to Pleural effusion; compare the distinctive clinical clues and mechanism in the stem. Pleural effusion is fluid accumulation in the pleural space; pneumothorax contains air.
+EXPLANATION D: This is the best answer. Pleural effusion is fluid accumulation in the pleural space; pneumothorax contains air. The stem is asking about the specific relationship represented by Pleural effusion; the other options refer to separate mechanisms or conditions.
+===== QUESTION 45 END =====
+
+===== QUESTION 46 START =====
+ID: M3-Q46
+STEM: A heart failure patient develops fluid in alveolar interstitium and airspaces from elevated pulmonary capillary pressure. Which problem is present?
+OPTION A: Acute sinusitis
+OPTION B: Cardiogenic pulmonary edema
+OPTION C: Primary immune thrombocytopenia
+OPTION D: Isolated pneumothorax
+CORRECT ANSWER: B
+CORRECT ANSWER TEXT: Cardiogenic pulmonary edema
+CORE RATIONALE: Elevated left-sided cardiac filling pressure can drive pulmonary edema through hydrostatic mechanisms.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Cardiogenic pulmonary edema. Elevated left-sided cardiac filling pressure can drive pulmonary edema through hydrostatic mechanisms. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Sinusitis is inflammation of the paranasal sinuses. The case instead points to Cardiogenic pulmonary edema; compare the distinctive clinical clues and mechanism in the stem. Elevated left-sided cardiac filling pressure can drive pulmonary edema through hydrostatic mechanisms.
+EXPLANATION B: This is the best answer. Elevated left-sided cardiac filling pressure can drive pulmonary edema through hydrostatic mechanisms. The stem is asking about the specific relationship represented by Cardiogenic pulmonary edema; the other options refer to separate mechanisms or conditions.
+EXPLANATION C: Not the best answer. Thrombocytopenia is a reduced platelet count, usually causing mucocutaneous bleeding. The case instead points to Cardiogenic pulmonary edema; compare the distinctive clinical clues and mechanism in the stem. Elevated left-sided cardiac filling pressure can drive pulmonary edema through hydrostatic mechanisms.
+EXPLANATION D: Not the best answer. Pneumothorax is air in the pleural space, potentially reducing breath sounds and collapsing lung. The case instead points to Cardiogenic pulmonary edema; compare the distinctive clinical clues and mechanism in the stem. Elevated left-sided cardiac filling pressure can drive pulmonary edema through hydrostatic mechanisms.
+===== QUESTION 46 END =====
+
+===== QUESTION 47 START =====
+ID: M3-Q47
+STEM: A patient has progressive pulmonary arterial pressure elevation with strain of the right ventricle. Which condition is present?
+OPTION A: Stable angina only
+OPTION B: Systemic arterial hypotension
+OPTION C: Sickle cell trait alone
+OPTION D: Pulmonary hypertension
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Pulmonary hypertension
+CORE RATIONALE: Pulmonary hypertension overloads the RV and can lead to cor pulmonale.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Pulmonary hypertension. Pulmonary hypertension overloads the RV and can lead to cor pulmonale. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Stable angina is transient myocardial ischemia predictably triggered by demand. The case instead points to Pulmonary hypertension; compare the distinctive clinical clues and mechanism in the stem. Pulmonary hypertension overloads the RV and can lead to cor pulmonale.
+EXPLANATION B: Not the best answer in this clinical context. Systemic arterial hypotension does not account for the particular findings or mechanism specified in the stem. The supported response is Pulmonary hypertension. Pulmonary hypertension overloads the RV and can lead to cor pulmonale.
+EXPLANATION C: Not the best answer. Sickle cell disease is a hemoglobinopathy caused by pathogenic HBB variants. The case instead points to Pulmonary hypertension; compare the distinctive clinical clues and mechanism in the stem. Pulmonary hypertension overloads the RV and can lead to cor pulmonale.
+EXPLANATION D: This is the best answer. Pulmonary hypertension overloads the RV and can lead to cor pulmonale. The stem is asking about the specific relationship represented by Pulmonary hypertension; the other options refer to separate mechanisms or conditions.
+===== QUESTION 47 END =====
+
+===== QUESTION 48 START =====
+ID: M3-Q48
+STEM: After sepsis, a patient develops severe hypoxemia with bilateral pulmonary opacities not explained by cardiac failure. Which syndrome is concerning?
+OPTION A: Stable coronary angina
+OPTION B: Uncomplicated varicose veins
+OPTION C: Acute respiratory distress syndrome
+OPTION D: Simple rhinitis
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Acute respiratory distress syndrome
+CORE RATIONALE: ARDS is acute inflammatory lung injury with diffuse permeability edema and hypoxemia.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Acute respiratory distress syndrome. ARDS is acute inflammatory lung injury with diffuse permeability edema and hypoxemia. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Stable coronary angina does not account for the particular findings or mechanism specified in the stem. The supported response is Acute respiratory distress syndrome. ARDS is acute inflammatory lung injury with diffuse permeability edema and hypoxemia.
+EXPLANATION B: Not the best answer. A varicosity is an abnormally enlarged superficial vein. The case instead points to Acute respiratory distress syndrome; compare the distinctive clinical clues and mechanism in the stem. ARDS is acute inflammatory lung injury with diffuse permeability edema and hypoxemia.
+EXPLANATION C: This is the best answer. ARDS is acute inflammatory lung injury with diffuse permeability edema and hypoxemia. The stem is asking about the specific relationship represented by Acute respiratory distress syndrome; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer. Rhinitis is inflammation of the nasal mucosa. The case instead points to Acute respiratory distress syndrome; compare the distinctive clinical clues and mechanism in the stem. ARDS is acute inflammatory lung injury with diffuse permeability edema and hypoxemia.
+===== QUESTION 48 END =====
+
+===== QUESTION 49 START =====
+ID: M3-Q49
+STEM: A patient with ARDS has protein-rich fluid passing into alveoli after endothelial and epithelial injury. Which mechanism predominates?
+OPTION A: Isolated bronchial smooth muscle spasm
+OPTION B: Uncomplicated ventricular hypertrophy
+OPTION C: Purely low blood hemoglobin
+OPTION D: Inflammatory permeability injury
+CORRECT ANSWER: D
+CORRECT ANSWER TEXT: Inflammatory permeability injury
+CORE RATIONALE: ARDS reflects diffuse lung barrier injury, distinct from purely hydrostatic cardiogenic pulmonary edema.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Inflammatory permeability injury. ARDS reflects diffuse lung barrier injury, distinct from purely hydrostatic cardiogenic pulmonary edema. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer in this clinical context. Isolated bronchial smooth muscle spasm does not account for the particular findings or mechanism specified in the stem. The supported response is Inflammatory permeability injury. ARDS reflects diffuse lung barrier injury, distinct from purely hydrostatic cardiogenic pulmonary edema.
+EXPLANATION B: Not the best answer. Hypertrophy enlarges existing cells, a different response from cell proliferation, cell death, or inflammatory recruitment. The case instead points to Inflammatory permeability injury; compare the distinctive clinical clues and mechanism in the stem. ARDS reflects diffuse lung barrier injury, distinct from purely hydrostatic cardiogenic pulmonary edema.
+EXPLANATION C: Not the best answer. Hemoglobin carries oxygen in red blood cells. The case instead points to Inflammatory permeability injury; compare the distinctive clinical clues and mechanism in the stem. ARDS reflects diffuse lung barrier injury, distinct from purely hydrostatic cardiogenic pulmonary edema.
+EXPLANATION D: This is the best answer. ARDS reflects diffuse lung barrier injury, distinct from purely hydrostatic cardiogenic pulmonary edema. The stem is asking about the specific relationship represented by Inflammatory permeability injury; the other options refer to separate mechanisms or conditions.
+===== QUESTION 49 END =====
+
+===== QUESTION 50 START =====
+ID: M3-Q50
+STEM: A patient is coughing up blood-streaked sputum. Which term describes the finding?
+OPTION A: Orthopnea
+OPTION B: Hemarthrosis
+OPTION C: Hemoptysis
+OPTION D: Hematemesis
+CORRECT ANSWER: C
+CORRECT ANSWER TEXT: Hemoptysis
+CORE RATIONALE: Hemoptysis is blood expectorated from respiratory tract; hematemesis is vomiting blood and hemarthrosis is joint bleeding.
+EXPANDED TEACHING EXPLANATION: The decisive clinical or mechanistic features in this question support Hemoptysis. Hemoptysis is blood expectorated from respiratory tract; hematemesis is vomiting blood and hemarthrosis is joint bleeding. In evaluating the choices, identify the specific mechanism, anatomical site, patient presentation or disease definition being tested; do not select a related diagnosis merely because it occurs in the same organ system.
+EXPLANATION A: Not the best answer. Orthopnea is breathlessness aggravated by lying flat. The case instead points to Hemoptysis; compare the distinctive clinical clues and mechanism in the stem. Hemoptysis is blood expectorated from respiratory tract; hematemesis is vomiting blood and hemarthrosis is joint bleeding.
+EXPLANATION B: Not the best answer. Hemarthrosis is bleeding into a joint. The case instead points to Hemoptysis; compare the distinctive clinical clues and mechanism in the stem. Hemoptysis is blood expectorated from respiratory tract; hematemesis is vomiting blood and hemarthrosis is joint bleeding.
+EXPLANATION C: This is the best answer. Hemoptysis is blood expectorated from respiratory tract; hematemesis is vomiting blood and hemarthrosis is joint bleeding. The stem is asking about the specific relationship represented by Hemoptysis; the other options refer to separate mechanisms or conditions.
+EXPLANATION D: Not the best answer. Hematemesis is vomiting blood from the gastrointestinal tract. The case instead points to Hemoptysis; compare the distinctive clinical clues and mechanism in the stem. Hemoptysis is blood expectorated from respiratory tract; hematemesis is vomiting blood and hemarthrosis is joint bleeding.
+===== QUESTION 50 END =====
