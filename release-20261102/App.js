@@ -109,7 +109,6 @@ export const APP_CONFIG = {
     MOD4D: "assets/mod4d.mp3",
     MOD1_MUSIC: "assets/loam2a.mp3",
     MOD2_MUSIC: "assets/loam2b.mp3",
-    MOD3_MUSIC: "https://rosebud.ai/assets/LOAM3.mp3?N8A2",
     MOD3_ROOTSDUB1: "assets/rootsdub1.mp3",
     MOD3_SALSA1: "assets/salsa1.mp3",
     MOD3_SALSA2: "assets/salsa2.mp3",

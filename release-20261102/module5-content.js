@@ -86,7 +86,7 @@ export const MODULE5_NPC_DATA = [
   { id: 'dr_rodriguez', name: 'Dr. Sofia Rodriguez', image: 'assets/belinda-curvy-sprite.webp', steps: [0, 1] },
   { id: 'nurse_chen', name: 'Wei Chen, NP', image: 'assets/maya-tall-sprite.webp', steps: [2] }
 ];
-export const MODULE5_WORLD_LOCATIONS = [{ id: 'emergency_room', label: 'WESTBRIDGE GI EMERGENCY', interior: 'https://rosebud.ai/assets/westbridge-emergency-trauma.webp?8ACj' }];
+export const MODULE5_WORLD_LOCATIONS = [{ id: 'emergency_room', label: 'WESTBRIDGE GI EMERGENCY', interior: 'assets/westbridge-emergency-trauma-webp.webp' }];
 export const MOD5_STORY_SCENARIOS = [
   {
     id: 'story_gi_1',
