@@ -1,0 +1,20 @@
+{
+  "name": "A Day in The life of Alfie",
+  "revisionLabel": "Fix student name overflow in stats tiles",
+  "description": "A Day in the Life of Alfie",
+  "mode": "Universal",
+  "exportDate": "2026-11-02T16:16:28.583Z",
+  "rosebudBuiltInSplash": {
+    "present": true,
+    "version": 1
+  },
+  "assetCount": 277,
+  "assetTypes": [
+    "file",
+    "image",
+    "audio",
+    "video",
+    "text",
+    "model"
+  ]
+}
